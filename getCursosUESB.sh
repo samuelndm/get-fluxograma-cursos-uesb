@@ -3,16 +3,34 @@
 
 file="./curso-uesb.txt";
 curso=$( grep -i "<title>" $file | cut -d "-" -f1 | cut -d ">" -f2 );
-id_curso=$( cat curso-uesb.txt | grep "/storage/fluxogramas/" | cut -d "_" -f1 | cut -d "/" -f4 );
-campus=$( grep -i "<title>" $file | cut -d "-" -f2 );
-turno=$( grep -i "<title>" $file | cut -d "-" -f3 );
-json_file="$id_curso.json";
+new_curso_name="";
+id_curso=$( cat $file | grep "/storage/fluxogramas/" | cut -d "_" -f1 | cut -d "/" -f4 );
+tipo_curso=""
+
+contWord=0
+for word in $curso; do
+    contWord=$((contWord + 1));
+
+    if [[ $contWord = 1 ]]; then
+        tipo_curso+=" $word";
+    
+    elif [[ $contWord > 2 ]]; then
+        new_curso_name+=" $word";
+        
+    fi
+done
+
+curso=$(echo $new_curso_name);
+campus=$( grep -i "<title>" $file | cut -d "-" -f3 );
+turno=$( grep -i "<title>" $file | cut -d "-" -f2 );
+json_file="$id_curso.json" && code ./$json_file;
 temp_file="./temp-file.txt";
 
 
 echo "{" >> "$json_file";
 echo "\"curso\": \"$curso\"," >> $json_file;
-echo "\"idCurso\": \"$id_curso\"," >> $json_file;
+echo "\"idCurso\": $id_curso," >> $json_file;
+echo "\"tipoCurso\": \"$tipo_curso\"," >> $json_file;
 echo "\"campus\": \"$campus\"," >> $json_file;
 echo "\"turno\": \"$turno\"," >> $json_file;
 echo "\"grade\": [" >> $json_file;

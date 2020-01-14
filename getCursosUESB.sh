@@ -38,7 +38,7 @@ echo "\"grade\": [" >> $json_file;
 first_line=$( cat curso-uesb.txt | grep -in "01 semestre" | cut -d ":" -f1 );
 
 tail -n +$first_line $file > $temp_file;
-sed -i '/[tr+td+\</small>\+\;\+}]/d' $temp_file
+sed -i '/[tr+td+small><+;+}]/d' $temp_file
 sed -i 's/^\s*$/>>>>>>>>>>>/' $temp_file
 
 
@@ -71,11 +71,11 @@ for periodo in $(seq $periodos); do
         creditos_line=$((line_number + 3));
         pre_requisito_line=$((line_number + 4));
 
-        codigo=$(sed -n "${codigo_line}p" < $temp_file);
-        nome=$(sed -n "${nome_line}p" < $temp_file);
-        horas=$(sed -n "${horas_line}p" < $temp_file);
-        creditos=$(sed -n "${creditos_line}p" < $temp_file);
-        pre_requisito=$(sed -n "${pre_requisito_line}p" < $temp_file);
+        codigo=$(sed -n "${codigo_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
+        nome=$(sed -n "${nome_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
+        horas=$(sed -n "${horas_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
+        creditos=$(sed -n "${creditos_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
+        pre_requisito=$(sed -n "${pre_requisito_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
 
         echo "\"codigo\": \"$codigo\"," >> $json_file;
         echo "\"nome\": \"$nome\"," >> $json_file;

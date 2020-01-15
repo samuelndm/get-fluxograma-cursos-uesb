@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+url_list="./url_list.txt"
 file="./curso-uesb.txt";
 curso=$( grep -i "<title>" $file | cut -d "-" -f1 | cut -d ">" -f2 );
 new_curso_name="";
@@ -21,8 +21,9 @@ for word in $curso; do
 done
 
 curso=$(echo $new_curso_name);
-campus=$( grep -i "<title>" $file | cut -d "-" -f3 );
-turno=$( grep -i "<title>" $file | cut -d "-" -f2 );
+tipo_curso=$(echo $tipo_curso | sed -e 's/^[[:space:]]*//g' -e 's/[[:space:]]*$//g');
+campus=$( grep -i "<title>" $file | cut -d "-" -f3 | sed -e 's/^[[:space:]]*//g' -e 's/[[:space:]]*$//g');
+turno=$( grep -i "<title>" $file | cut -d "-" -f2 | sed -e 's/^[[:space:]]*//g' -e 's/[[:space:]]*$//g');
 json_file="$id_curso.json" && code ./$json_file;
 temp_file="./temp-file.txt";
 
@@ -35,7 +36,7 @@ echo "\"campus\": \"$campus\"," >> $json_file;
 echo "\"turno\": \"$turno\"," >> $json_file;
 echo "\"grade\": [" >> $json_file;
 
-first_line=$( cat curso-uesb.txt | grep -in "01 semestre" | cut -d ":" -f1 );
+first_line=$( cat $file | grep -in "01 semestre" | cut -d ":" -f1 );
 
 tail -n +$first_line $file > $temp_file;
 sed -i '/[tr+td+small><+;+}]/d' $temp_file
@@ -44,7 +45,7 @@ sed -i 's/^\s*$/>>>>>>>>>>>/' $temp_file
 
 
 
-periodos=$( cat curso-uesb.txt | grep -i "semestre" | wc -l );
+periodos=$( cat $file | grep -i "semestre" | wc -l );
 line_number=1;
 for periodo in $(seq $periodos); do
     echo "{" >> "$json_file";
@@ -76,6 +77,7 @@ for periodo in $(seq $periodos); do
         horas=$(sed -n "${horas_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
         creditos=$(sed -n "${creditos_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
         pre_requisito=$(sed -n "${pre_requisito_line}p" < $temp_file | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//');
+        pre_requisito=$(echo $pre_requisito | sed 's/,/","/g' | sed 's/,"[[:space:]]/,"/g');
 
         echo "\"codigo\": \"$codigo\"," >> $json_file;
         echo "\"nome\": \"$nome\"," >> $json_file;
@@ -90,4 +92,4 @@ for periodo in $(seq $periodos); do
 done
 
 sed -i '$ s/.$//' $json_file;
-echo "]}" >> $json_file;
+echo "]}," >> $json_file;

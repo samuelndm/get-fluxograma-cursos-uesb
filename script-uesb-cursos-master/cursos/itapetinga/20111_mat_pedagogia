@@ -1,0 +1,1531 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="9n8cCD4J2lxD99tedgmAzIY6seLTAOGE4gNw2daS">
+    
+            <title>Licenciatura Em Pedagogia - Matutino - Itapetinga - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Licenciatura Em Pedagogia - Matutino - Itapetinga - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">LICENCIATURA EM PEDAGOGIA</h1>
+                <h2 class="mb-4"><small>CAMPUS: ITAPETINGA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 3425h</li>
+                        <li class="list-inline-item">Créditos: 150</li>
+                        <li class="list-inline-item">Turno: Matutino</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20111_mat_pedagogia.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0707
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOLOGIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0710
+                                </td>
+                                <td >
+                                    HISTÓRIA DA EDUCAÇÃO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0709
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0702
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AO TRABALHO ACADÊMICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0701
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DA EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0700
+                                </td>
+                                <td >
+                                    LEITURA E PRODUÇÃO DE TEXTO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0708
+                                </td>
+                                <td >
+                                    PSICOLOGIA GERAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 20)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0716
+                                </td>
+                                <td >
+                                    PRESSUPOSTOS LINGUÍSTICOS PARA O ESTUDO DA LINGUAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0715
+                                </td>
+                                <td >
+                                    ANTROPOLOGIA CULTURAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0714
+                                </td>
+                                <td >
+                                    HISTÓRIA DA EDUCAÇÃO II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0710
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0713
+                                </td>
+                                <td >
+                                    FILOSOFIA DA EDUCAÇÃO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCHEL0709
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0712
+                                </td>
+                                <td >
+                                    PSICOLOGIA DA EDUCAÇÃO I (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0708
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0711
+                                </td>
+                                <td >
+                                    SOCIOLOGIA DA EDUCAÇÃO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCHEL0707
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 15)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0718
+                                </td>
+                                <td >
+                                    PSICOLOGIA DA EDUCAÇÃO II (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0712
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0721
+                                </td>
+                                <td >
+                                    DIDÁTICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0720
+                                </td>
+                                <td >
+                                    POLÍTICA PÚBLICA DA EDUCAÇÃO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0714
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0719
+                                </td>
+                                <td >
+                                    FILOSOFIA DA EDUCAÇÃO II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0713
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0717
+                                </td>
+                                <td >
+                                    SOCIOLOGIA DA EDUCAÇÃO II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0711
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 15)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0726
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DA EDUCAÇÃO INFANTIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0725
+                                </td>
+                                <td >
+                                    POLÍTICA PÚBLICA DA EDUCAÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0720
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0724
+                                </td>
+                                <td >
+                                    GESTÃO NA EDUCAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0720
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0723
+                                </td>
+                                <td >
+                                    DIDÁTICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0714, DCHEL0718, DCHEL0719, DCHEL0717
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0722
+                                </td>
+                                <td >
+                                    METODOLOGIA DA PESQUISA EDUCACIONAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0702
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 15)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0731
+                                </td>
+                                <td >
+                                    METODOLOGIA DA EDUCAÇÃO INFANTIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0726
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0730
+                                </td>
+                                <td >
+                                    ARTE E LUDICIDADE NA EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0729
+                                </td>
+                                <td >
+                                    CURRÍCULOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0728
+                                </td>
+                                <td >
+                                    EDUCAÇÃO, GÊNERO E SEXUALIDADE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0718, DCHEL0717
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0727
+                                </td>
+                                <td >
+                                    PRÁTICA DA PESQUISA EDUCACIONAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0722
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 18)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0743
+                                </td>
+                                <td >
+                                    ESTÁGIO I - EDUCAÇÃO INFANTIL
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (0.1.2)
+                                </td>
+                                <td>
+                                    DCHEL0723, DCHEL0731
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0736
+                                </td>
+                                <td >
+                                    EDUCAÇÃO À DISTÂNCIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0735
+                                </td>
+                                <td >
+                                    METODOLOGIA DA ALFABETIZAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0734
+                                </td>
+                                <td >
+                                    EDUCAÇÃO DE JOVENS E ADULTOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0733
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO DA CIÊNCIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0732
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO DA HISTÓRIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 435h  - 
+                                            CRED 19)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0742
+                                </td>
+                                <td >
+                                    EDUCAÇÃO E RELAÇÃO ÉTNICO-RACIAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0740
+                                </td>
+                                <td >
+                                    ESTÁGIO II - ENSINO FUNDAMENTAL - SÉRIES INICIAIS - ENSINO REGULAR
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.1.2)
+                                </td>
+                                <td>
+                                    DCHEL0723, DCHEL0735, DCHEL0733, DCHEL0732
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0739
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO DA MATEMÁTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0738
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO DA GEOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0737
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO DA LÍNGUA PORTUGUESA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0741
+                                </td>
+                                <td >
+                                    AVALIAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 16)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0748
+                                </td>
+                                <td >
+                                    LIBRAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0747
+                                </td>
+                                <td >
+                                    EDUCAÇÃO NO CAMPO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0746
+                                </td>
+                                <td >
+                                    ESTÁGIO IV - GESTÃO EM EDUCAÇÃO
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (1.1.1)
+                                </td>
+                                <td>
+                                    DCHEL0724, DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0745
+                                </td>
+                                <td >
+                                    EDUCAÇÃO ESPECIAL E INCLUSIVA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0744
+                                </td>
+                                <td >
+                                    ESTÁGIO III - ENSINO FUNDAMENTAL SÉRIES INICIAIS - POPULAÇÕES DIFERENCIADAS
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (1.1.1)
+                                </td>
+                                <td>
+                                    DCHEL0729, DCHEL0728, DCHEL0735, DCHEL0734, DCHEL0733, DCHEL0732, DCHEL0739, DCHEL0738, DCHEL0737
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0837
+                                </td>
+                                <td >
+                                    COORDENAÇÃO DE ATIVIDADES DE MONOGRAFIA
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0727
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 915h  - 
+                                            CRED 41)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0766
+                                </td>
+                                <td >
+                                    ÉTICA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0765
+                                </td>
+                                <td >
+                                    GESTÃO E RELAÇÕES HUMANAS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0764
+                                </td>
+                                <td >
+                                    MÍDIAS E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0763
+                                </td>
+                                <td >
+                                    ESTATÍSTICA APLICADA A EDUCAÇÃO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0762
+                                </td>
+                                <td >
+                                    EDUCAÇÃO E SOCIEDADE
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0761
+                                </td>
+                                <td >
+                                    SAÚDE E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0760
+                                </td>
+                                <td >
+                                    EDUCAÇÃO ESCOLAR INDÍGENA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0759
+                                </td>
+                                <td >
+                                    INFORMÁTICA E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0758
+                                </td>
+                                <td >
+                                    LITERATURA INFANTIL
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0757
+                                </td>
+                                <td >
+                                    ESCOLA, VIOLÊNCIA E DIREITOS HUMANOS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0756
+                                </td>
+                                <td >
+                                    EDUCAÇÃO E TRABALHO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0755
+                                </td>
+                                <td >
+                                    CIÊNCIAS POLÍTICAS (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0754
+                                </td>
+                                <td >
+                                    EDUCAÇÃO AMBIENTAL
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0753
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DA DOCÊNCIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0752
+                                </td>
+                                <td >
+                                    BRAILLE
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0751
+                                </td>
+                                <td >
+                                    GERONTOLOGIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0750
+                                </td>
+                                <td >
+                                    HISTÓRIA DA ÁFRICA E CULTURA AFRO-BRASILEIRA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0749
+                                </td>
+                                <td >
+                                    EDUCAÇÃO POPULAR E MOVIMENTOS SOCIAIS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0835
+                                </td>
+                                <td >
+                                    PSICANÁLISE E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0838
+                                </td>
+                                <td >
+                                    INGLÊS INSTRUMENTAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

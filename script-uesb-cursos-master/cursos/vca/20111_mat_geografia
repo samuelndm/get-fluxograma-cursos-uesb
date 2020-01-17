@@ -1,0 +1,2347 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="7u70XQJ8DQq90CTGaUUiAipsMO5InJuIcMp4Anzg">
+    
+            <title>Licenciatura Em Geografia - Matutino - Vitória Da Conquista - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Licenciatura Em Geografia - Matutino - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">LICENCIATURA EM GEOGRAFIA</h1>
+                <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 3065h</li>
+                        <li class="list-inline-item">Créditos: 133</li>
+                        <li class="list-inline-item">Turno: Matutino</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20111_mat_geografia.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 19)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0730
+                                </td>
+                                <td >
+                                    GEOGRAFIA DA POPULAÇÃO (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0795
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA (4)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0701
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À GEOGRAFIA FÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0700
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AO PENSAMENTO GEOGRÁFICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0705
+                                </td>
+                                <td >
+                                    POLÍTICA EDUCACIONAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0106
+                                </td>
+                                <td >
+                                    ESTATÍSTICA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 18)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0733
+                                </td>
+                                <td >
+                                    CARTOGRAFIA BÁSICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0732
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS REGIONAIS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0731
+                                </td>
+                                <td >
+                                    INICIAÇÃO À PESQUISA GEOGRÁFICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0794
+                                </td>
+                                <td >
+                                    DIDÁTICA (5)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0014
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DE GEOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0463
+                                </td>
+                                <td >
+                                    CLIMATOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 17)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0741
+                                </td>
+                                <td >
+                                    GEOGRAFIA ECONÔMICA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0736
+                                </td>
+                                <td >
+                                    CARTOGRAFIA TEMÁTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DG0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0735
+                                </td>
+                                <td >
+                                    FORMAÇÃO TERRITORIAL E REGIONALIZAÇÃO DO BRASIL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0734
+                                </td>
+                                <td >
+                                    REGIONALIZAÇÃO DO MUNDO CONTEMPORÂNEO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0026
+                                </td>
+                                <td >
+                                    METODOLOGIA E PRÁTICA DO ENSINO DE GEOGRAFIA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (1.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0018
+                                </td>
+                                <td >
+                                    GEOMORFOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 17)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0751
+                                </td>
+                                <td >
+                                    METODOLOGIA E PRÁTICA DO ENSINO DE GEOGRAFIA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (1.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0738
+                                </td>
+                                <td >
+                                    GEOGRAFIA AGRÁRIA  (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0703
+                                </td>
+                                <td >
+                                    ESCALAS E MÉTODOS EM ANÁLISE REGIONAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DG0732
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0702
+                                </td>
+                                <td >
+                                    HISTÓRIA DO PENSAMENTO GEOGRÁFICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DG0700
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0016
+                                </td>
+                                <td >
+                                    MACROAMBIENTES DO ESPAÇO BRASILEIRO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0030
+                                </td>
+                                <td >
+                                    GEOGRAFIA DOS SOLOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 17)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0743
+                                </td>
+                                <td >
+                                    GEOGRAFIA URBANA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0742
+                                </td>
+                                <td >
+                                    METODOLOGIA DA PESQUISA GEOGRÁFICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0740
+                                </td>
+                                <td >
+                                    HIDROGRAFIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0739
+                                </td>
+                                <td >
+                                    GEOGRAFIA DO NORDESTE (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0704
+                                </td>
+                                <td >
+                                    PRÁTICAS EM PROJETOS APLICADOS AO ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (1.0.1)
+                                </td>
+                                <td>
+                                    DG0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0017
+                                </td>
+                                <td >
+                                    PSICOLOGIA DO DESENVOLVIMENTO COGNITIVO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 17)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0744
+                                </td>
+                                <td >
+                                    BIOGEOGRAFIA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0737
+                                </td>
+                                <td >
+                                    GEOGRAFIA POLÍTICA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0711
+                                </td>
+                                <td >
+                                    LIBRAS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0707
+                                </td>
+                                <td >
+                                    CARTOGRAFIA APLICADA À PESQUISA GEOGRÁFICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0706
+                                </td>
+                                <td >
+                                    PRÁTICA DA PESQUISA GEOGRÁFICA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DG0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0705
+                                </td>
+                                <td >
+                                    INTERPRETAÇÃO DAS ESPACIALIDADES EM ANÁLISE REGIONAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 240h  - 
+                                            CRED 10)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0745
+                                </td>
+                                <td >
+                                    GEOGRAFIA DA BAHIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0710
+                                </td>
+                                <td >
+                                    PRÁTICA DA PESQUISA GEOGRÁFICA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DG0706
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0709
+                                </td>
+                                <td >
+                                    ANÁLISE AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DG0018, DG0744
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0708
+                                </td>
+                                <td >
+                                    OFICINAS PEDAGÓGICAS PARA O ENSINO DA GEOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (1.0.1)
+                                </td>
+                                <td>
+                                    DG0751
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 225h  - 
+                                            CRED 6)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0712
+                                </td>
+                                <td >
+                                    SEMINÁRIOS TEMÁTICOS EM GEOGRAFIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0711
+                                </td>
+                                <td >
+                                    ESTÁGIO SUPERVISIONADO EM GEOGRAFIA
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (0.0.4)
+                                </td>
+                                <td>
+                                    DG0704, DG0708
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 4320h  - 
+                                            CRED 214)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0747
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DE SENSORIAMENTO REMOTO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0713
+                                </td>
+                                <td >
+                                    LIBRAS III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0724
+                                </td>
+                                <td >
+                                    GEOGRAFIA HISTÓRICA E FORMAÇÃO REGIONAL DA BAHIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0066
+                                </td>
+                                <td >
+                                    TÓPICOS DE ESTUDOS REGIONAIS DO MUNDO ÁRABE- ISLÂMICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0074
+                                </td>
+                                <td >
+                                    SOCIEDADE, ESPAÇO E CULTURA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0036
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO EM GEOGRAFIA FÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0159
+                                </td>
+                                <td >
+                                    ECONOMIA POLÍTICA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0723
+                                </td>
+                                <td >
+                                    MACROAMBIENTES DA TERRA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0077
+                                </td>
+                                <td >
+                                    TÓPICOS DE FORMAÇÃO DO MUNDO CONTEMPORÂNEO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0109
+                                </td>
+                                <td >
+                                    SOCIOLOGIA POLÍTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0037
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO EM GEOGRAFIA HUMANA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0075
+                                </td>
+                                <td >
+                                    GEOGRAFIA, TURISMO E PRODUÇÃO DO ESPAÇO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0048
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DE SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0313
+                                </td>
+                                <td >
+                                    EDUCAÇÃO ESPECIAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0750
+                                </td>
+                                <td >
+                                    GEOGRAFIA DA AMAZÔNIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0718
+                                </td>
+                                <td >
+                                    TEORIA E IDEOLOGIA DA GEOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0488
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA CULTURAL DO BRASIL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0038
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO EM GEOGRAFIA REGIONAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0058
+                                </td>
+                                <td >
+                                    MEMÓRIA SOCIAL, ESPAÇO E PRÁTICAS CULTURAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0051
+                                </td>
+                                <td >
+                                    GEOMORFOLOGIA CLIMÁTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0309
+                                </td>
+                                <td >
+                                    EDUCAÇÃO NO MEIO RURAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0052
+                                </td>
+                                <td >
+                                    ANÁLISE AMBIENTAL URBANA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0717
+                                </td>
+                                <td >
+                                    ANÁLISE DA PAISAGEM EM GEOGRAFIA FÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0400
+                                </td>
+                                <td >
+                                    ANTROPOLOGIA CULTURAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0728
+                                </td>
+                                <td >
+                                    ENSINO DE GEOGRAFIA E EDUCAÇÃO AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0076
+                                </td>
+                                <td >
+                                    GEOGRAFIA DA INDÚSTRIA E ENERGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0716
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA ÁFRICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0727
+                                </td>
+                                <td >
+                                    TERRITORIALIDADES, MUNDO DO TRABALHO E REESTRUTURAÇÃO PRODUTIVA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0072
+                                </td>
+                                <td >
+                                    PRODUÇÃO DO ESPAÇO CONQUISTENSE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0056
+                                </td>
+                                <td >
+                                    METODOLOGIA DA GEOGRAFIA PARA PESSOAS JOVENS E ADULTAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0108
+                                </td>
+                                <td >
+                                    HISTÓRIA DA AMÉRICA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0725
+                                </td>
+                                <td >
+                                    HISTÓRIA DO PENSAMENTO GEOGRÁFICO NO BRASIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0721
+                                </td>
+                                <td >
+                                    PRODUÇÃO DO ESPAÇO GEOGRÁFICO: CONFLITOS E CONTRADIÇÕES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0720
+                                </td>
+                                <td >
+                                    TERRITORIALIZAÇÃO DOS MOVIMENTOS SOCIAIS E CONFLITOS DE CLASSE NA BAHIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0719
+                                </td>
+                                <td >
+                                    CONCEITOS E CATEGORIAS DA ANÁLISE GEOGRÁFICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0713
+                                </td>
+                                <td >
+                                    GEOGRAFIA DAS REDES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0056
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA ÁFRICA III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0079
+                                </td>
+                                <td >
+                                    METODOLOGIA DO TRABALHO DE CAMPO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0061
+                                </td>
+                                <td >
+                                    ESTADO E POLÍTICAS REGIONAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0868
+                                </td>
+                                <td >
+                                    ESTRATIGRAFIA DO QUATERNÁRIO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0715
+                                </td>
+                                <td >
+                                    PROBLEMAS AMBIENTAIS DA TERRA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0714
+                                </td>
+                                <td >
+                                    GEOGRAFIA DAS REDES NO BRASIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0057
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA ÁFRICA IV
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0064
+                                </td>
+                                <td >
+                                    TÓPICOS DE ESTUDOS REGIONAIS DA ÁFRICA SUBSAARIANA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0057
+                                </td>
+                                <td >
+                                    NOVAS TECNOLOGIAS E O ENSINO DE GEOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0001
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ECONOMIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0357
+                                </td>
+                                <td >
+                                    CONTEÚDO E METODOLOGIA DO ENSINO FUNDAMENTAL DE GEOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0753
+                                </td>
+                                <td >
+                                    TÓPICOS EM GEOGRAFIA HUMANA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0726
+                                </td>
+                                <td >
+                                    O BRASIL NO SÉCULO XXI
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0065
+                                </td>
+                                <td >
+                                    TÓPICOS DE ESTUDOS REGIONAIS DA ÁSIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0100
+                                </td>
+                                <td >
+                                    PSICOLOGIA DA EDUCAÇÃO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0002
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0071
+                                </td>
+                                <td >
+                                    GEOGRAFIA DO COMÉRCIO E CIRCULAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0078
+                                </td>
+                                <td >
+                                    ESTUDOS TEÓRICOS EM GEOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0060
+                                </td>
+                                <td >
+                                    DESENVOLVIMENTO LOCAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0715
+                                </td>
+                                <td >
+                                    TÓPICOS DE TEORIA DA HISTÓRIA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0746
+                                </td>
+                                <td >
+                                    FITOGEOGRAFIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0729
+                                </td>
+                                <td >
+                                    DOMÍNIOS DA NATUREZA E POTENCIAIS PAISAGÍSTICOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0722
+                                </td>
+                                <td >
+                                    GEOGRAFIA DO LITORAL BRASILEIRO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0716
+                                </td>
+                                <td >
+                                    OCEANOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0063
+                                </td>
+                                <td >
+                                    TÓPICOS DE ESTUDOS REGIONAIS DA EUROPA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0070
+                                </td>
+                                <td >
+                                    RECURSOS NATURAIS E DESENVOLVIMENTO SUSTENTÁVEL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0011
+                                </td>
+                                <td >
+                                    LEITURA E ESCRITA DE TEXTOS ACADÊMICOS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0749
+                                </td>
+                                <td >
+                                    REGIÃO E CULTURA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0748
+                                </td>
+                                <td >
+                                    FOTOINTERPRETAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0712
+                                </td>
+                                <td >
+                                    LIBRAS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0422
+                                </td>
+                                <td >
+                                    TÓPICOS DE TEORIA DA HISTÓRIA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0062
+                                </td>
+                                <td >
+                                    TÓPICOS DE ESTUDOS REGIONAIS DAS AMÉRICAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0039
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO EM GEOGRAFIA DO BRASIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0073
+                                </td>
+                                <td >
+                                    GEOGRAFIA DOS MOVIMENTOS SOCIAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0045
+                                </td>
+                                <td >
+                                    ECOLOGIA DA PAISAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0874
+                                </td>
+                                <td >
+                                    GEOLOGIA DO BRASIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCN0014
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1997 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="9n8cCD4J2lxD99tedgmAzIY6seLTAOGE4gNw2daS">
+    
+            <title>Bacharelado Em Engenharia Ambiental - Diúrno - Itapetinga - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Engenharia Ambiental - Diúrno - Itapetinga - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM ENGENHARIA AMBIENTAL</h1>
+                <h2 class="mb-4"><small>CAMPUS: ITAPETINGA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 4470h</li>
+                        <li class="list-inline-item">Créditos: 222</li>
+                        <li class="list-inline-item">Turno: Diúrno</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20041_diurno_eng_ambiental.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 480h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0115
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0152
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0153
+                                </td>
+                                <td >
+                                    QUÍMICA GERAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0502
+                                </td>
+                                <td >
+                                    EDUCAÇÃO FÍSICA I
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0006
+                                </td>
+                                <td >
+                                    DESENHO TÉCNICO (1)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0014
+                                </td>
+                                <td >
+                                    PORTUGUÊS INSTRUMENTAL (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0015
+                                </td>
+                                <td >
+                                    CIÊNCIAS,TECNOLOGIA E PESQUISA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0077
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ENGENHARIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0061
+                                </td>
+                                <td >
+                                    EDAFOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0062
+                                </td>
+                                <td >
+                                    TOPOGRAFIA E CARTOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0006
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0154
+                                </td>
+                                <td >
+                                    QUÍMICA ORGÂNICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0153
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0155
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0156
+                                </td>
+                                <td >
+                                    FÍSICA GERAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0101
+                                </td>
+                                <td >
+                                    ESTATÍSTICA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0002
+                                </td>
+                                <td >
+                                    BIOLOGIA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 25)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0160
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL III
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0155
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0161
+                                </td>
+                                <td >
+                                    FÍSICA GERAL II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0167
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ADMINISTRAÇÃO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0063
+                                </td>
+                                <td >
+                                    BIOQUÍMICA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0154
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0016
+                                </td>
+                                <td >
+                                    ECOLOGIA (2)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0017
+                                </td>
+                                <td >
+                                    SOCIEDADE, NATUREZA E DESENVOLVIMENTO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0018
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DE METEREOLOGIA E CLIMATOLOGIA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0156
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0020
+                                </td>
+                                <td >
+                                    MICROBIOLOGIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0021
+                                </td>
+                                <td >
+                                    CÁLCULO NUMÉRICO (1)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0115, DCEN0155
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0064
+                                </td>
+                                <td >
+                                    RECURSOS NATURAIS E ENERGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0156
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0102
+                                </td>
+                                <td >
+                                    ESTATÍSTICA EXPERIMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0101
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0136
+                                </td>
+                                <td >
+                                    FENÔMENOS DE TRANSPORTE I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0155, DCEN0161
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0176
+                                </td>
+                                <td >
+                                    FÍSICA GERAL III
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0701
+                                </td>
+                                <td >
+                                    MECÂNICA (2)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0156
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0137
+                                </td>
+                                <td >
+                                    FENÔMENOS DE TRANSPORTE II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0136
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0065
+                                </td>
+                                <td >
+                                    HIDRÁULICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0136
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0066
+                                </td>
+                                <td >
+                                    ELETRICIDADE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0176
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0067
+                                </td>
+                                <td >
+                                    SANEAMENTO BÁSICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0020, DTRA0136
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0022
+                                </td>
+                                <td >
+                                    ECOLOGIA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0016, DCEN0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0023
+                                </td>
+                                <td >
+                                    INFORMÁTICA APLICADA A ENGENHARIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0115
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0135
+                                </td>
+                                <td >
+                                    RESISTÊNCIA DOS MATERIAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0701
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 25)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0024
+                                </td>
+                                <td >
+                                    LEGISLAÇÃO E ÉTICA AMBIENTAL
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0068
+                                </td>
+                                <td >
+                                    HIDROLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0018, DCEN0065
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0069
+                                </td>
+                                <td >
+                                    INSTRUMENTAÇÃO APLICADA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0066
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0070
+                                </td>
+                                <td >
+                                    SIMULAÇÃO E OTIMIZAÇÃO DE PROCESSOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0021
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0078
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE MATÉRIAS LIMPAS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DTRA0135
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0079
+                                </td>
+                                <td >
+                                    OPERAÇÕES UNITÁRIAS DA ENGENHARIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0137
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0080
+                                </td>
+                                <td >
+                                    TRATAMENTO DE RESÍDUOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0137, DCEN0067
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0171
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ECONOMIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0081
+                                </td>
+                                <td >
+                                    TRATAMENTO DE EFLUENTES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0067
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0082
+                                </td>
+                                <td >
+                                    CONSERVAÇÃO DA BIODIVERSIDADE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0022
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0072
+                                </td>
+                                <td >
+                                    POLUIÇÃO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0020, DTRA0137
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0073
+                                </td>
+                                <td >
+                                    SISTEMAS DE INFORMAÇÃO GEOGRÁFICA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0018, DCEN0023
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0074
+                                </td>
+                                <td >
+                                    AUDITORIA AMBIENTAL
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DCEN0067
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0075
+                                </td>
+                                <td >
+                                    AVALIAÇÃO E PREVISÃO DE IMPACTOS AMBIENTAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0018, DCEN0020
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0702
+                                </td>
+                                <td >
+                                    TERMODINÂMICA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152, DCEN0161
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 465h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0083
+                                </td>
+                                <td >
+                                    CONTROLE DE QUALIDADE AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0702
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0084
+                                </td>
+                                <td >
+                                    POLUIÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0702
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0085
+                                </td>
+                                <td >
+                                    BIOTECNOLOGIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DCEN0079
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0086
+                                </td>
+                                <td >
+                                    ANÁLISE DE RISCO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0074, DCEN0075
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0087
+                                </td>
+                                <td >
+                                    ENGENHARIA DE PROCESSOS AMBIENTAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0018, DCEN0020
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0088
+                                </td>
+                                <td >
+                                    CONFORTO E SEGURANÇA AMBIENTAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0018, DTRA0702
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0089
+                                </td>
+                                <td >
+                                    MODELAGEM AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0070
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0093
+                                </td>
+                                <td >
+                                    PLANEJAMENTO AMBIENTAL DE SISTEMAS INDUSTRIAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0073, DCHEL0074, DCEN0075
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">09 SEMESTRE  <small>(C.H. 285h  - 
+                                            CRED 15)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0090
+                                </td>
+                                <td >
+                                    POLUIÇÃO III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0084
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0091
+                                </td>
+                                <td >
+                                    CONSERVAÇÃO E RECUPERAÇÃO DE AMBIENTES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0081, DCEN0082, DCEN0086
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0092
+                                </td>
+                                <td >
+                                    PLANEJAMENTO AMBIENTAL DE SISTEMAS AGROPECUÁRIOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0073, DCHEL0074, DCEN0075
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0094
+                                </td>
+                                <td >
+                                    GESTÃO DE PROJETOS AMBIENTAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0084, DCEN0085, DCEN0087
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0095
+                                </td>
+                                <td >
+                                    PLANEJAMENTO E DESENVOLVIMENTO REGIONAL E URBANO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DCEN0087, DCEN0088
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">10 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 8)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0096
+                                </td>
+                                <td >
+                                    ESTÁGIO SUPERVISIONADO OBRIGATÓRIO - ENG. AMBIENTAL
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 1500h  - 
+                                            CRED 76)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0412
+                                </td>
+                                <td >
+                                    ENGENHARIA DE ALIMENTOS E MEIO AMBIENTE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0419
+                                </td>
+                                <td >
+                                    TRATAMENTO DE ÁGUA RESIDUAL NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0003
+                                </td>
+                                <td >
+                                    CONTROLE DE PROCESSOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0070
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0004
+                                </td>
+                                <td >
+                                    DISPERSÃO AMBIENTAL DE POLUENTES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0137, DTRA0702
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0005
+                                </td>
+                                <td >
+                                    EMPREENDEDORISMO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0167, DCHEL0171
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0006
+                                </td>
+                                <td >
+                                    EROSÃO E SEDIMENTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0061
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0007
+                                </td>
+                                <td >
+                                    GESTÃO DE BACIAS HIDROGRÁFICAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0068
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0179
+                                </td>
+                                <td >
+                                    MATEMÁTICA AVANÇADA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0255
+                                </td>
+                                <td >
+                                    ADMINISTRAÇÃO E ORGANIZAÇÃO DE EMPRESAS DE ENGENHARIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0167, DCHEL0171
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0257
+                                </td>
+                                <td >
+                                    ANÁLISES QUÍMICAS AMBIENTAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0063
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0258
+                                </td>
+                                <td >
+                                    EDUCAÇÃO E PERCEPÇÃO AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0167, DCHEL0171
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0259
+                                </td>
+                                <td >
+                                    SOCIOLOGIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0063
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0260
+                                </td>
+                                <td >
+                                    QUÍMICA AMBIENTAL AVANÇADA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0063
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0261
+                                </td>
+                                <td >
+                                    QUIMIODINÂMICA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0063
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0411
+                                </td>
+                                <td >
+                                    INGLÊS INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0412
+                                </td>
+                                <td >
+                                    ESPANHOL INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0413
+                                </td>
+                                <td >
+                                    FRANCÊS INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0105
+                                </td>
+                                <td >
+                                    QUÍMICA ANALÍTICA I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0143
+                                </td>
+                                <td >
+                                    MÉTODOS E TÉCNICAS DA PESQUISA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0168
+                                </td>
+                                <td >
+                                    FÍSICO-QUÍMICA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0008
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0256
+                                </td>
+                                <td >
+                                    ANÁLISE DE SÉRIES TEMPORAIS
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0160, DCEN0102
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0818
+                                </td>
+                                <td >
+                                    TRANSDISCIPLINARIDADE E AMBIENTE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0843
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM QUALIDADE DA ÁGUA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0102, DCEN0084
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0842
+                                </td>
+                                <td >
+                                    HIGIENE E SEGURANÇA DO TRABALHO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0024, DCHEL0074
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

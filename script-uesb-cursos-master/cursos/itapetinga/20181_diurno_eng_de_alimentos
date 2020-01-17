@@ -1,0 +1,2048 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="9n8cCD4J2lxD99tedgmAzIY6seLTAOGE4gNw2daS">
+    
+            <title>Bacharelado Em Engenharia De Alimentos - Diúrno - Itapetinga - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Engenharia De Alimentos - Diúrno - Itapetinga - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM ENGENHARIA DE ALIMENTOS</h1>
+                <h2 class="mb-4"><small>CAMPUS: ITAPETINGA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 4325h</li>
+                        <li class="list-inline-item">Créditos: 210</li>
+                        <li class="list-inline-item">Turno: Diúrno</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20181_diurno_eng_de_alimentos.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 405h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0002
+                                </td>
+                                <td >
+                                    BIOLOGIA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0152
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0027
+                                </td>
+                                <td >
+                                    PORTUGUÊS INSTRUMENTAL (4)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0153
+                                </td>
+                                <td >
+                                    QUÍMICA GERAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0154
+                                </td>
+                                <td >
+                                    QUÍMICA ORGÂNICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0265
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ADMINISTRAÇÃO (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1487
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ENGENHARIA DE ALIMENTOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 20)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0159
+                                </td>
+                                <td >
+                                    BIOQUÍMICA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0154
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0155
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0114
+                                </td>
+                                <td >
+                                    DESENHO TÉCNICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0156
+                                </td>
+                                <td >
+                                    FÍSICA GERAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0011
+                                </td>
+                                <td >
+                                    METODOLOGIA DE PESQUISA EM ENGENHARIA
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0012
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOECONOMIA AGROALIMENTAR
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0838
+                                </td>
+                                <td >
+                                    CIÊNCIAS DOS COMPUTADORES I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0160
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL III
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0155
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0101
+                                </td>
+                                <td >
+                                    ESTATÍSTICA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0161
+                                </td>
+                                <td >
+                                    FÍSICA GERAL II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0156
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0163
+                                </td>
+                                <td >
+                                    QUÍMICA ANALÍTICA APLICADA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0153
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0266
+                                </td>
+                                <td >
+                                    ÁLGEBRA LINEAR
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0834
+                                </td>
+                                <td >
+                                    MICROBIOLOGIA GERAL I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0002, DCEN0159
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0839
+                                </td>
+                                <td >
+                                    CIÊNCIAS DOS COMPUTADORES II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0838
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0102
+                                </td>
+                                <td >
+                                    ESTATÍSTICA EXPERIMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0101
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0176
+                                </td>
+                                <td >
+                                    FÍSICA GERAL III
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0156, DCEN0160
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0160
+                                </td>
+                                <td >
+                                    NUTRIÇÃO HUMANA BÁSICA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DCEN0159
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0268
+                                </td>
+                                <td >
+                                    MICROBIOLOGIA DE ALIMENTOS (1)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0834
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0703
+                                </td>
+                                <td >
+                                    MECÂNICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0156
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0704
+                                </td>
+                                <td >
+                                    TERMODINÂMICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0840
+                                </td>
+                                <td >
+                                    QUÍMICA DE ALIMENTOS I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0159, DCEN0163
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0021
+                                </td>
+                                <td >
+                                    CÁLCULO NUMÉRICO (1)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0160, DCEN0266
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0014
+                                </td>
+                                <td >
+                                    HIGIENIZAÇÃO NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0268
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0015
+                                </td>
+                                <td >
+                                    FENÔMENOS DE TRANSPORTE I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCEN0155, DCEN0161
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0269
+                                </td>
+                                <td >
+                                    QUÍMICA DE ALIMENTOS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0159, DCEN0163
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0018
+                                </td>
+                                <td >
+                                    MÉTODOS DE CONSERVAÇÃO DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCEN0268, DTRA1487
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1488
+                                </td>
+                                <td >
+                                    RESISTÊNCIA DOS MATERIAIS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0703
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1489
+                                </td>
+                                <td >
+                                    FÍSICO-QUÍMICA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0360
+                                </td>
+                                <td >
+                                    ELETRICIDADE ELETROTÉCNICA APLICADA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0176
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0158
+                                </td>
+                                <td >
+                                    ANÁLISE SENSORIAL DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0102
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0019
+                                </td>
+                                <td >
+                                    ANÁLISE DE ALIMENTOS
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0163
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0016
+                                </td>
+                                <td >
+                                    FENÔMENOS DE TRANSPORTE II (2)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (5.0.0)
+                                </td>
+                                <td>
+                                    DTRA0704, DTRA0015
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0050
+                                </td>
+                                <td >
+                                    OPERAÇÕES UNITÁRIAS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DTRA0015
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0264
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ECONOMIA (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 375h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0051
+                                </td>
+                                <td >
+                                    OPERAÇÕES UNITÁRIAS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DTRA0016
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0022
+                                </td>
+                                <td >
+                                    OPERAÇÕES UNITÁRIAS III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0023
+                                </td>
+                                <td >
+                                    ENGENHARIA BIOQUÍMICA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCEN0268, DCEN0021
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0052
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE FRUTAS E HORTALIÇAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018, DTRA0019
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0193
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DE MODELAGEM E SIMULAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0021
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1490
+                                </td>
+                                <td >
+                                    CIÊNCIA E TECNOLOGIA DE LEITES (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018, DTRA0019
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0194
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DO CONTROLE DE PROCESSOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0193
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0026
+                                </td>
+                                <td >
+                                    TRATAMENTO DE RESÍDUOS NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0014
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0028
+                                </td>
+                                <td >
+                                    SISTEMAS DE QUALIDADE NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCHEL0265, DCEN0102, DTRA0014
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0020
+                                </td>
+                                <td >
+                                    EMBALAGENS PARA ALIMENTOS (2)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018, DTRA1488
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1493
+                                </td>
+                                <td >
+                                    CIÊNCIA E TECNOLOGIA DE CARNES (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0269, DTRA0018, DCEN0840
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1494
+                                </td>
+                                <td >
+                                    TRABALHO DE CONCLUSÃO DE CURSO I
+                                </td>
+                                <td >
+                                    15h
+                                </td>
+                                <td >
+                                    (1.0.0)
+                                </td>
+                                <td>
+                                    DTRA0011
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1492
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE FENÔMENOS DE TRANSFERÊNCIA (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DTRA0050, DTRA0051, DTRA0022
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1491
+                                </td>
+                                <td >
+                                    PLANEJAMENTO E PROJETOS AGROINDUSTRIAIS I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0264, DTRA0050
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">09 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 15)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0032
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE MASSAS E PANIFICAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018, DCEN0840
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0031
+                                </td>
+                                <td >
+                                    PLANEJAMENTO E PROJETOS AGROINDUSTRIAIS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA1491
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0030
+                                </td>
+                                <td >
+                                    DESENVOLVIMENTO DE NOVOS PRODUTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018, DTRA0158, DTRA0019
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0010
+                                </td>
+                                <td >
+                                    ENGENHARIA DE ALIMENTOS E MEIO AMBIENTE (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DCHEL0265, DTRA0026
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1495
+                                </td>
+                                <td >
+                                    TRABALHO DE CONCLUSÃO DE CURSO II
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DTRA1494
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0248
+                                </td>
+                                <td >
+                                    RELAÇÕES HUMANAS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0265
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">10 SEMESTRE  <small>(C.H. 315h  - 
+                                            CRED 7)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0706
+                                </td>
+                                <td >
+                                    ESTÁGIO SUPERVISIONADO OBRIGATÓRIO
+                                </td>
+                                <td >
+                                    315h
+                                </td>
+                                <td >
+                                    (0.0.7)
+                                </td>
+                                <td>
+                                    DCHEL0248
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 1785h  - 
+                                            CRED 90)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0422
+                                </td>
+                                <td >
+                                    ANÁLISE DE EXPERIMENTOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0011, DCEN0102
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0046
+                                </td>
+                                <td >
+                                    MARKETING NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0265
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0042
+                                </td>
+                                <td >
+                                    PIGMENTOS NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0019
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0041
+                                </td>
+                                <td >
+                                    PROCESSAMENTO DE PRODUTOS CÁRNEOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0037
+                                </td>
+                                <td >
+                                    ANÁLISE INSTRUMENTAL PARA ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0019
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0035
+                                </td>
+                                <td >
+                                    DESIDRATAÇÃO DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0003
+                                </td>
+                                <td >
+                                    CONTROLE DE PROCESSOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0193
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0415
+                                </td>
+                                <td >
+                                    ADITIVOS E COADJUVANTES NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0767
+                                </td>
+                                <td >
+                                    PROPRIEDADES FÍSICAS DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCEN0161, DCEN0176
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0048
+                                </td>
+                                <td >
+                                    PROCESSAMENTO DE CEREAIS, RAÍZES E TUBÉRCULOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0047
+                                </td>
+                                <td >
+                                    REFRIGERAÇÃO NA INDÚSTRIA DE ALIMENTOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0040
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE BEBIDAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0038
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE AÇÚCAR E PRODUTOS AÇUCARADOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0417
+                                </td>
+                                <td >
+                                    SERVIÇOS DE ALIMENTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0166
+                                </td>
+                                <td >
+                                    SECAGEM E ARMAZENAMENTO DE GRÃOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0409
+                                </td>
+                                <td >
+                                    PRODUTOS NUTRICIONAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0160, DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0039
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE ÓLEOS E GORDURAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0049
+                                </td>
+                                <td >
+                                    TECNOLOGIA DO PROCESSAMENTO DE PESCADO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0036
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE PRODUTOS FERMENTADOS E ACIDIFICADOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA0700
+                                </td>
+                                <td >
+                                    HIGIENE E SEGURANÇA NO TRABALHO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA0014
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DTRA1496
+                                </td>
+                                <td >
+                                    PROCESSAMENTO DE PRODUTOS LÁCTEOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DTRA1490
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0411
+                                </td>
+                                <td >
+                                    INGLÊS INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0024
+                                </td>
+                                <td >
+                                    LEGISLAÇÃO E ÉTICA AMBIENTAL
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0017
+                                </td>
+                                <td >
+                                    SOCIEDADE, NATUREZA E DESENVOLVIMENTO
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0020
+                                </td>
+                                <td >
+                                    MICROBIOLOGIA AMBIENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0196
+                                </td>
+                                <td >
+                                    HISTÓRIA E FILOSOFIA DA CIÊNCIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0413
+                                </td>
+                                <td >
+                                    FRANCÊS INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0412
+                                </td>
+                                <td >
+                                    ESPANHOL INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0078
+                                </td>
+                                <td >
+                                    TECNOLOGIA DE MATÉRIAS LIMPAS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (3.0.0)
+                                </td>
+                                <td>
+                                    DTRA1488
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCHEL0255
+                                </td>
+                                <td >
+                                    ADMINISTRAÇÃO E ORGANIZAÇÃO DE EMPRESAS DE ENGENHARIA
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCHEL0265
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCEN0284
+                                </td>
+                                <td >
+                                    DESENHO TÉCNICO INDUSTRIAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DCEN0114
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

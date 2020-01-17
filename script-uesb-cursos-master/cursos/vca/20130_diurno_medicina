@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="7u70XQJ8DQq90CTGaUUiAipsMO5InJuIcMp4Anzg">
+    
+            <title>Bacharelado Em Medicina - Diúrno - Vitória Da Conquista - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Medicina - Diúrno - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM MEDICINA</h1>
+                <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 8970h</li>
+                        <li class="list-inline-item">Créditos: 318</li>
+                        <li class="list-inline-item">Turno: Diúrno</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20130_diurno_medicina.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 1155h  - 
+                                            CRED 55)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0821
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERAÇÃO: ENSINO, SERVIÇO E COMUNIDADE I
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0820
+                                </td>
+                                <td >
+                                    ABRANGÊNCIA DAS AÇÕES DE SAÚDE (2)
+                                </td>
+                                <td >
+                                    105h
+                                </td>
+                                <td >
+                                    (3.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0819
+                                </td>
+                                <td >
+                                    METABOLISMO (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (5.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0818
+                                </td>
+                                <td >
+                                    CONCEPÇÃO E FORMAÇÃO DO SER HUMANO (2)
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (4.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0817
+                                </td>
+                                <td >
+                                    FUNÇÕES BIOLÓGICAS (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0816
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES I (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0815
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AO ESTUDO DA MEDICINA (2)
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (4.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0814
+                                </td>
+                                <td >
+                                    MECANISMOS DE AGRESSÃO E DEFESA (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0704
+                                </td>
+                                <td >
+                                    ATUALIZAÇÃO I (ELETIVA)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 1155h  - 
+                                            CRED 55)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0829
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERAÇÃO: ENSINO, SERVIÇO E COMUNIDADE II
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    DCN0821
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0828
+                                </td>
+                                <td >
+                                    PERCEPÇÃO, CONSCIÊNCIA E EMOÇÃO (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (5.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0827
+                                </td>
+                                <td >
+                                    DOENÇAS RESULTANTES DA AGRESSÃO AO MEIO AMBIENTE (2)
+                                </td>
+                                <td >
+                                    105h
+                                </td>
+                                <td >
+                                    (3.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0826
+                                </td>
+                                <td >
+                                    NASCIMENTO, CRESCIMENTO E DESENVOLVIMENTO (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (5.2.0)
+                                </td>
+                                <td>
+                                    DCN0818
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0825
+                                </td>
+                                <td >
+                                    PROCESSO DE ENVELHECIMENTO (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    DCN0817
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0824
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES II (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    DCN0816
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0823
+                                </td>
+                                <td >
+                                    LOCOMOÇÃO E APREENSÃO (2)
+                                </td>
+                                <td >
+                                    105h
+                                </td>
+                                <td >
+                                    (3.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0822
+                                </td>
+                                <td >
+                                    PROLIFERAÇÃO CELULAR (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    DCN0814
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0709
+                                </td>
+                                <td >
+                                    ATUALIZAÇÃO II (ELETIVA II)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 1140h  - 
+                                            CRED 54)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0837
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERAÇÃO: ENSINO, SERVIÇO E COMUNIDADE III
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    DCN0829
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0836
+                                </td>
+                                <td >
+                                    PROBLEMAS MENTAIS E DE COMPORTAMENTO (2)
+                                </td>
+                                <td >
+                                    105h
+                                </td>
+                                <td >
+                                    (3.2.0)
+                                </td>
+                                <td>
+                                    DCN0828
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0835
+                                </td>
+                                <td >
+                                    DOR (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    DCN0828
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0834
+                                </td>
+                                <td >
+                                    DOR ABDOMINAL, DIARREIA, VÔMITOS E ICTERÍCIA (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    DCN0819
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0833
+                                </td>
+                                <td >
+                                    FEBRE, INFLAMAÇÃO E INFECÇÃO (2)
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (4.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0832
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES III (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    DCN0824
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0831
+                                </td>
+                                <td >
+                                    FADIGA, PERDA DE PESO E ANEMIAS (2)
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (4.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0830
+                                </td>
+                                <td >
+                                    PERDA DE SANGUE (2)
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (4.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0718
+                                </td>
+                                <td >
+                                    ATUALIZAÇÃO III (ELETIVA III)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 1335h  - 
+                                            CRED 61)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0847
+                                </td>
+                                <td >
+                                    TRABALHO DE CONCLUSÃO DE CURSO (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0846
+                                </td>
+                                <td >
+                                    ATIVIDADES ACADÊMICAS COMPLEMENTARES (2)
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (2.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0845
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERAÇÃO: ENSINO, SERVIÇO E COMUNIDADE IV
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    DCN0837
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0844
+                                </td>
+                                <td >
+                                    DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA (2)
+                                </td>
+                                <td >
+                                    150h
+                                </td>
+                                <td >
+                                    (4.3.0)
+                                </td>
+                                <td>
+                                    DCN0836
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0843
+                                </td>
+                                <td >
+                                    DISPNEIA, DOR TORÁCICA, EDEMAS E TOSSE
+                                </td>
+                                <td >
+                                    150h
+                                </td>
+                                <td >
+                                    (4.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0842
+                                </td>
+                                <td >
+                                    SAÚDE DA MULHER, SEXUALIDADE HUMANA E PLANEJAMENTO REPRODUTIVO
+                                </td>
+                                <td >
+                                    150h
+                                </td>
+                                <td >
+                                    (4.3.0)
+                                </td>
+                                <td>
+                                    DCN0826
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0841
+                                </td>
+                                <td >
+                                    DESORDENS NUTRICIONAIS E METABÓLICAS (2)
+                                </td>
+                                <td >
+                                    105h
+                                </td>
+                                <td >
+                                    (3.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0840
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES IV (2)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    DCN0832
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0839
+                                </td>
+                                <td >
+                                    EMERGÊNCIAS (2)
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (5.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0838
+                                </td>
+                                <td >
+                                    MANIFESTAÇÕES EXTERNAS DAS DOENÇAS E IATROGENIAS
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (4.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0719
+                                </td>
+                                <td >
+                                    ATUALIZAÇÃO IV (ELETIVA IV)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 2025h  - 
+                                            CRED 45)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0744
+                                </td>
+                                <td >
+                                    PEDIATRIA I
+                                </td>
+                                <td >
+                                    405h
+                                </td>
+                                <td >
+                                    (0.0.9)
+                                </td>
+                                <td>
+                                    DCN0821, DCN0820, DCN0819, DCN0818, DCN0817, DCN0816, DCN0815, DCN0814, DCN0704, DCN0829, DCN0828, DCN0827, DCN0826, DCN0825, DCN0824, DCN0823, DCN0822, DCN0709, DCN0837, DCN0836, DCN0835, DCN0834, DCN0833, DCN0832, DCN0831, DCN0830, DCN0718, DCN0847, DCN0846, DCN0845, DCN0844, DCN0843, DCN0842, DCN0841, DCN0840, DCN0839, DCN0838, DCN0719
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0720
+                                </td>
+                                <td >
+                                    CLÍNICA CIRÚRGICA I
+                                </td>
+                                <td >
+                                    405h
+                                </td>
+                                <td >
+                                    (0.0.9)
+                                </td>
+                                <td>
+                                    DCN0821, DCN0820, DCN0819, DCN0818, DCN0817, DCN0816, DCN0815, DCN0814, DCN0704, DCN0829, DCN0828, DCN0827, DCN0826, DCN0825, DCN0824, DCN0823, DCN0822, DCN0709, DCN0837, DCN0836, DCN0835, DCN0834, DCN0833, DCN0832, DCN0831, DCN0830, DCN0718, DCN0847, DCN0846, DCN0845, DCN0844, DCN0843, DCN0842, DCN0841, DCN0840, DCN0839, DCN0838, DCN0719
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0722
+                                </td>
+                                <td >
+                                    CLÍNICA MÉDICA I
+                                </td>
+                                <td >
+                                    405h
+                                </td>
+                                <td >
+                                    (0.0.9)
+                                </td>
+                                <td>
+                                    DCN0821, DCN0820, DCN0819, DCN0818, DCN0817, DCN0816, DCN0815, DCN0814, DCN0704, DCN0829, DCN0828, DCN0827, DCN0826, DCN0825, DCN0824, DCN0823, DCN0822, DCN0837, DCN0836, DCN0835, DCN0834, DCN0833, DCN0832, DCN0831, DCN0830, DCN0718, DCN0847, DCN0846, DCN0845, DCN0844, DCN0843, DCN0842, DCN0841, DCN0840, DCN0839, DCN0838, DCN0719
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0743
+                                </td>
+                                <td >
+                                    GINECOLOGIA E OBSTETRÍCIA I
+                                </td>
+                                <td >
+                                    405h
+                                </td>
+                                <td >
+                                    (0.0.9)
+                                </td>
+                                <td>
+                                    DCN0821, DCN0820, DCN0819, DCN0818, DCN0817, DCN0816, DCN0815, DCN0814, DCN0704, DCN0829, DCN0828, DCN0827, DCN0826, DCN0825, DCN0824, DCN0823, DCN0822, DCN0709, DCN0837, DCN0836, DCN0835, DCN0834, DCN0833, DCN0832, DCN0831, DCN0830, DCN0718, DCN0847, DCN0846, DCN0845, DCN0844, DCN0843, DCN0842, DCN0841, DCN0840, DCN0839, DCN0838, DCN0719
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0736
+                                </td>
+                                <td >
+                                    MEDICINA COMUNITÁRIA E SAÚDE DA FAMÍLIA
+                                </td>
+                                <td >
+                                    405h
+                                </td>
+                                <td >
+                                    (0.0.9)
+                                </td>
+                                <td>
+                                    DCN0821, DCN0820, DCN0819, DCN0818, DCN0817, DCN0816, DCN0815, DCN0814, DCN0704, DCN0829, DCN0828, DCN0827, DCN0825, DCN0823, DCN0822, DCN0709, DCN0837, DCN0836, DCN0835, DCN0834, DCN0833, DCN0832, DCN0831, DCN0830, DCN0718, DCN0847, DCN0846, DCN0845, DCN0844, DCN0843, DCN0842, DCN0841, DCN0840, DCN0839, DCN0838, DCN0719
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 2160h  - 
+                                            CRED 48)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0721
+                                </td>
+                                <td >
+                                    CLÍNICA CIRÚRGICA II
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    DCN0744, DCN0720, DCN0722, DCN0743, DCN0736
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0723
+                                </td>
+                                <td >
+                                    CLÍNICA MÉDICA II
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    DCN0744, DCN0720, DCN0722, DCN0743, DCN0736
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0737
+                                </td>
+                                <td >
+                                    MEDICINA COMUNITÁRIA E SAÚDE MENTAL
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    DCN0744, DCN0720, DCN0722, DCN0743, DCN0736
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0750
+                                </td>
+                                <td >
+                                    PEDIATRIA II
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    DCN0744, DCN0720, DCN0722, DCN0743, DCN0736
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0749
+                                </td>
+                                <td >
+                                    GINECOLOGIA E OBSTETRÍCIA II
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    DCN0744, DCN0720, DCN0722, DCN0743, DCN0736
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0738
+                                </td>
+                                <td >
+                                    OPCIONAL (INTERNATO)
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    DCN0744, DCN0720, DCN0722, DCN0743, DCN0736
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

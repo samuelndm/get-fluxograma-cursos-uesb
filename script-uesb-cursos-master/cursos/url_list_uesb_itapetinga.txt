@@ -1,0 +1,10 @@
+http://catalogo.uesb.br/cursos/biologia-bac-it/20121_integral_biologia
+http://catalogo.uesb.br/cursos/eng_ambiental-bac-it/20041_diurno_eng_ambiental
+http://catalogo.uesb.br/cursos/eng_de_alimentos-bac-it/20181_diurno_eng_de_alimentos
+http://catalogo.uesb.br/cursos/quimica_atrib_tecno-bac-it/20101_not_quimica_atrib_tecno
+http://catalogo.uesb.br/cursos/zootecnia-bac-it/20181_diurno_zootecnia
+http://catalogo.uesb.br/cursos/biologia-lic-it/20181_not_biologia
+http://catalogo.uesb.br/cursos/fisica-lic-it/20121_not_fisica
+http://catalogo.uesb.br/cursos/pedagogia-lic-it/20111_mat_pedagogia
+http://catalogo.uesb.br/cursos/pedagogia-lic-it/20111_not_pedagogia
+http://catalogo.uesb.br/cursos/quimica-lic-it/20111_not_quimica

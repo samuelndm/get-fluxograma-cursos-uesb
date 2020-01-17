@@ -1,0 +1,2420 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="7u70XQJ8DQq90CTGaUUiAipsMO5InJuIcMp4Anzg">
+    
+            <title>Bacharelado Em Psicologia - Diúrno - Vitória Da Conquista - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Psicologia - Diúrno - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM PSICOLOGIA</h1>
+                <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 3405h</li>
+                        <li class="list-inline-item">Créditos: 169</li>
+                        <li class="list-inline-item">Turno: Diúrno</li>
+                        <li class="list-inline-item">Currículo: Básico                                   - Base</li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20141_diurno_base_psicologia.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 435h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0002
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0846
+                                </td>
+                                <td >
+                                    HISTÓRIA DA PSICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0847
+                                </td>
+                                <td >
+                                    PSICOLOGIA E PROFISSÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0808
+                                </td>
+                                <td >
+                                    GENÉTICA HUMANA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0848
+                                </td>
+                                <td >
+                                    METODOLOGIA DO TRABALHO ACADÊMICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0849
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO I
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0957
+                                </td>
+                                <td >
+                                    TUTORIA I
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0710
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 435h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0850
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ANTROPOLOGIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0851
+                                </td>
+                                <td >
+                                    PSICOLOGIA SOCIAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0852
+                                </td>
+                                <td >
+                                    PSICOLOGIA DO DESENVOLVIMENTO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0853
+                                </td>
+                                <td >
+                                    PROCESSOS PSICOLÓGICOS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0809
+                                </td>
+                                <td >
+                                    NEUROANATOMIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0813
+                                </td>
+                                <td >
+                                    ESTATÍSTICA APLICADA À PSICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0854
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO II
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0958
+                                </td>
+                                <td >
+                                    TUTORIA II
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 435h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0855
+                                </td>
+                                <td >
+                                    TEORIA COMPORTAMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0856
+                                </td>
+                                <td >
+                                    PSICOLOGIA SOCIAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0857
+                                </td>
+                                <td >
+                                    PSICOLOGIA DO DESENVOLVIMENTO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0858
+                                </td>
+                                <td >
+                                    PROCESSOS PSICOLÓGICOS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0810
+                                </td>
+                                <td >
+                                    NEUROFISIOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0302
+                                </td>
+                                <td >
+                                    METODOLOGIA DA PESQUISA CIENTÍFICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0859
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO III
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0959
+                                </td>
+                                <td >
+                                    TUTORIA III
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 435h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0860
+                                </td>
+                                <td >
+                                    TEORIA PSICANALÍTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0861
+                                </td>
+                                <td >
+                                    TEORIAS DA APRENDIZAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0862
+                                </td>
+                                <td >
+                                    PSICOLOGIA DO DESENVOLVIMENTO III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0863
+                                </td>
+                                <td >
+                                    PSICOLOGIA E NECESSIDADES EDUCACIONAIS ESPECIAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0864
+                                </td>
+                                <td >
+                                    PSICOMETRIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0865
+                                </td>
+                                <td >
+                                    PESQUISA EM PSICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0866
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO IV
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0960
+                                </td>
+                                <td >
+                                    TUTORIA IV
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0867
+                                </td>
+                                <td >
+                                    TEORIAS FENOMENOLÓGICO-EXISTENCIAIS E HUMANISTAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0868
+                                </td>
+                                <td >
+                                    PSICOLOGIA E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0869
+                                </td>
+                                <td >
+                                    PSICOPATOLOGIA I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0870
+                                </td>
+                                <td >
+                                    TEP I (TESTES PADRONIZADOS)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0871
+                                </td>
+                                <td >
+                                    PSICOLOGIA E VULNERABILIDADE SOCIAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0872
+                                </td>
+                                <td >
+                                    TEORIAS E TÉCNICAS DE DINÂMICA DE GRUPO
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0873
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO V
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 465h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0874
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERVENÇÃO COMPORTAMENTAL E COGNITIVA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0875
+                                </td>
+                                <td >
+                                    PSICODIAGNÓSTICO
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0876
+                                </td>
+                                <td >
+                                    PSICOPATOLOGIA II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0877
+                                </td>
+                                <td >
+                                    TEP II (TESTES PROJETIVOS GRÁFICOS)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0878
+                                </td>
+                                <td >
+                                    PSICOLOGIA DAS ORGANIZAÇÕES E DO TRABALHO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0879
+                                </td>
+                                <td >
+                                    PSICOFARMACOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0880
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO VI
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0881
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERVENÇÃO PSICANALÍTICA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0882
+                                </td>
+                                <td >
+                                    INFÂNCIA E SOCIEDADE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0883
+                                </td>
+                                <td >
+                                    PREVENÇÃO E PROMOÇÃO EM SAÚDE MENTAL
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0885
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTERVENÇÃO FENOMENOLÓGICA-EXISTENCIAL E HUMANA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0887
+                                </td>
+                                <td >
+                                    ESTÁGIO BÁSICO VII
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0921
+                                </td>
+                                <td >
+                                    TÉCNICAS DE PSICOTERAPIA COM CRIANÇAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0917
+                                </td>
+                                <td >
+                                    PSICOTERAPIA BREVE E DE EMERGÊNCIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 4215h  - 
+                                            CRED 210)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0811
+                                </td>
+                                <td >
+                                    POLÍTICA EDUCACIONAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0805
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0809
+                                </td>
+                                <td >
+                                    DIDÁTICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0806
+                                </td>
+                                <td >
+                                    ESTUDOS HISTÓRICOS EM EDUCAÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0800
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0805
+                                </td>
+                                <td >
+                                    POLÍTICA EDUCACIONAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0803
+                                </td>
+                                <td >
+                                    ESTUDOS FILOSÓFICOS EM EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0800
+                                </td>
+                                <td >
+                                    ESTUDOS HISTÓRICOS EM EDUCAÇÃO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0808
+                                </td>
+                                <td >
+                                    EDUCAÇÃO INCLUSIVA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0817
+                                </td>
+                                <td >
+                                    ALFABETIZAÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0818
+                                </td>
+                                <td >
+                                    EDUCAÇÃO DE PESSOAS JOVENS E ADULTAS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0026
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO I: RELAÇÕES ETNICO-RACIAIS E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0819
+                                </td>
+                                <td >
+                                    EDUCAÇÃO INFANTIL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0821
+                                </td>
+                                <td >
+                                    ALFABETIZAÇÃO III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0817
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0824
+                                </td>
+                                <td >
+                                    GESTÃO EDUCACIONAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0830
+                                </td>
+                                <td >
+                                    DIFICULDADES DE APRENDIZAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0833
+                                </td>
+                                <td >
+                                    HISTÓRIA E HISTORIOGRAFIA DA EDUCAÇÃO BRASILEIRA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0834
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO II- ENFOQUES DE PESQUISA EM EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0831
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO VII: ORGANIZAÇÃO E SABERES NAS CLASSES MULTISERIADAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0842
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO X - ARTE E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0844
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO V - MOVIMENTOS SOCIAIS E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0845
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO XI - TRABALHO E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0838
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO IX - EDUCAÇÃO INCLUSIVA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0835
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO VIII - MET. DO ENS. -APRENDIZAGEM PARA A EDUCAÇÃO DO CAMPO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0837
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO III - EDUCAÇÃO E PREVENÇÃO ÀS DROGAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0828
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO VI - FUNDAMENTOS RELIGIOSOS DA EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0841
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO IV - ESTRUTURA E FUNCIONAMENTO DO ENSINO SUPERIOR
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0408
+                                </td>
+                                <td >
+                                    EDUCAÇÃO E MEIO AMBIENTE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0762
+                                </td>
+                                <td >
+                                    ESTATÍSTICA APLICADA E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0829
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO XII - FORMAÇÃO DE PROFESSORES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0724
+                                </td>
+                                <td >
+                                    ORALIDADE E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0839
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO XV - ENSINO COLABORATIVO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0836
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO XIV - EDUCAÇÃO POPULAR
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0723
+                                </td>
+                                <td >
+                                    LEITURA E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0916
+                                </td>
+                                <td >
+                                    PSICOPEDAGOGIA INSTITUCIONAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0761
+                                </td>
+                                <td >
+                                    INFORMÁTICA E EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0722
+                                </td>
+                                <td >
+                                    GÊNEROS DIGITAIS E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0728
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DE LETRAMENTO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0832
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM EDUCAÇÃO XIII: AVALIAÇÃO EM EDUCAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0914
+                                </td>
+                                <td >
+                                    PSICOMOTRICIDADE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0915
+                                </td>
+                                <td >
+                                    PSICOPEDAGOGIA CLÍNICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0420
+                                </td>
+                                <td >
+                                    LINGUÍSTICA APLICADA A ALFABETIZAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0760
+                                </td>
+                                <td >
+                                    RECURSOS TECNOLÓGICOS E EDUCAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0727
+                                </td>
+                                <td >
+                                    ESCRITA E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0709
+                                </td>
+                                <td >
+                                    LIBRAS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0968
+                                </td>
+                                <td >
+                                    Estágio Supervisionado Específico IV
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (0.0.4)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0969
+                                </td>
+                                <td >
+                                    Estágio Supervisionado Específico V
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (0.0.3)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0967
+                                </td>
+                                <td >
+                                    Metodologia e Práticas de Ensino de Psicologia
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0970
+                                </td>
+                                <td >
+                                    Tópicos Especiais em Psicologia da Educação
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0908
+                                </td>
+                                <td >
+                                    A NATUREZA SIMBÓLICA DO SER HUMANO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0918
+                                </td>
+                                <td >
+                                    PSICOTERAPIA EM GRUPO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0919
+                                </td>
+                                <td >
+                                    TÉCNICAS DE EXAME PSICOLÓGICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0920
+                                </td>
+                                <td >
+                                    SAÚDE E TRABALHO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0922
+                                </td>
+                                <td >
+                                    TÓPICOS CONTEMPORÂNEOS EM PSICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0923
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM PSICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0404
+                                </td>
+                                <td >
+                                    HISTÓRIA DA FILOSOFIA MODERNA E CONTEMPORÂNEA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0715
+                                </td>
+                                <td >
+                                    LEITURA E ESCRITA DE TEXTOS ACADÊMICOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0909
+                                </td>
+                                <td >
+                                    DINÂMICA DE GRUPO E PRÁTICAS GRUPAIS NA INTERVENÇÃO PSICOSSOCIAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0732
+                                </td>
+                                <td >
+                                    LINGUÍSTICA E PSICANÁLISE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0911
+                                </td>
+                                <td >
+                                    PSICODIAGNÓSTICO 2
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0912
+                                </td>
+                                <td >
+                                    PSICOLOGIA E COMUNICAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0875
+                                </td>
+                                <td >
+                                    NEUROCIÊNCIAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH1075
+                                </td>
+                                <td >
+                                    TEP III (TESTES PROJETIVOS)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0886
+                                </td>
+                                <td >
+                                    NEUROPSICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH1077
+                                </td>
+                                <td >
+                                    IDENTIDADE E DIVERSIDADE CULTURAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH1082
+                                </td>
+                                <td >
+                                    ELETIVA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH1081
+                                </td>
+                                <td >
+                                    ELETIVA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0485
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM CULTURA E AUDIOVISUAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0910
+                                </td>
+                                <td >
+                                    ORIENTAÇÃO PROFISSIONAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

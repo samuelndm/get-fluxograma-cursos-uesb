@@ -1,0 +1,309 @@
+                                    DCHL0702
+                                    PRÁTICAS DO CORPO NA CENA
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0704
+                                    EXPRESSÕES DRAMÁTICAS DA CULTURA POPULAR NA ARTE BRASILEIRA
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0705
+                                    FUNDAMENTOS DA ARTE NA EDUCAÇÃO (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0707
+                                    FUNDAMENTOS DA EXPRESSÃO E COMUNICAÇÃO HUMANA
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0706
+                                    LEITURA E PRODUÇÃO DE TEXTO (2)
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0703
+                                    PROCESSOS DE CRIAÇÃO CÊNICA I: TEATRO E CONTEMPORANEIDADE
+                                    105h
+                                    (1.3.0)
+                                    -
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0712
+                                    ESTÉTICA (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0713
+                                    HISTÓRIA DO ENSINO DA ARTE NO BRASIL
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0711
+                                    PSICOLOGIA DA EDUCAÇÃO (2)
+                                    75h
+                                    (1.2.0)
+                                    -
+                                    DCHL0710
+                                    ELEMENTOS DA MÚSICA E MUSICALIDADE DA CENA
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0709
+                                    PROCESSOS DE CRIAÇÃO CÊNICA II: DANÇA E CONTEMPORANEIDADE
+                                    105h
+                                    (1.3.0)
+                                    DCHL0703
+                                    DCHL0708
+                                    ESTUDOS DO CORPO E DA VOZ
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCB0050
+                                    ANATOMIA E FISIOLOGIA HUMANA BÁSICA
+                                    60h
+                                    (2.1.0)
+                                    -
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0719
+                                    INTRODUÇÃO AO ESTUDO DAS ARTES VISUAIS
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0718
+                                    ESTILOS, POÉTICAS E PROCEDIMENTOS
+                                    75h
+                                    (1.2.0)
+                                    -
+                                    DCHL0717
+                                    ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0716
+                                    IMPROVISAÇÃO E JOGOS
+                                    75h
+                                    (1.2.0)
+                                    -
+                                    DCHL0715
+                                    ESTÁGIO EM INTERPRETAÇÃO TEATRAL I: TEATRO REALISTA E TEATRO ÉPICO
+                                    105h
+                                    (1.3.0)
+                                    -
+                                    DCHL0714
+                                    ANTROPOLOGIA CULTURAL (4)
+                                    45h
+                                    (1.1.0)
+                                    -
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0726
+                                    DRAMATURGIA I: INTRODUÇÃO AO ESTUDO DO TEXTO DRAMÁTICO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0725
+                                    CENOGRAFIA (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0724
+                                    HISTÓRIA DO TEATRO I: TEATRO RITUAL, TEATRO GREGO E TEATRO ROMANO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0723
+                                    DIDÁTICA E PRÁXIS DO ENSINO DO TEATRO
+                                    90h
+                                    (2.2.0)
+                                    -
+                                    DCHL0722
+                                    TEATRO DE FORMAS ANIMADAS
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0721
+                                    ESTÁGIO EM INTERPRETAÇÃO TEATRAL II: RUPTURAS, VANGUARDAS E REFERÊNCIAS CONTEMPORÂNEAS
+                                    105h
+                                    (1.3.0)
+                                    DCHL0715
+                                    DCHL0720
+                                    ESTUDOS INTRODUTÓRIOS À PESQUISA EM ARTE
+                                    45h
+                                    (1.1.0)
+                                    -
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0733
+                                    DRAMATURGIA II: TRAGÉDIAS, COMÉDIAS E DRAMA MODERNO
+                                    60h
+                                    (2.1.0)
+                                    DCHL0726
+                                    DCHL0732
+                                    MAQUIAGEM
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0731
+                                    HISTÓRIA DO TEATRO II: IDADE MÉDIA E RENASCIMENTO
+                                    60h
+                                    (2.1.0)
+                                    DCHL0724
+                                    DCHL0730
+                                    METODOLOGIA DO ENSINO DO TEATRO (2)
+                                    60h
+                                    (2.1.0)
+                                    DCHL0723
+                                    DCHL0729
+                                    METODOLOGIA DA PESQUISA EM TEATRO
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0727
+                                    ESTUDOS ÉTNICO-RACIAIS
+                                    45h
+                                    (1.1.0)
+                                    -
+                                    DCHL0886
+                                    90h
+                                    (0.0.2)
+                                    DCHL0721
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0739
+                                    DRAMATURGIA III: VANGUARDAS DO SÉCULO XX E DRAMATURGIAS CONTEMPORÂNEAS
+                                    60h
+                                    (2.1.0)
+                                    DCHL0733
+                                    DCHL0738
+                                    FIGURINO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0737
+                                    HISTÓRIA DO TEATRO III: IDADE MODERNA E CONTEMPORANEIDADE
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0736
+                                    LIBRAS: LINGUAGEM BRASILEIRA DE SINAIS (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0735
+                                    ESTÉTICA DO OPRIMIDO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0887
+                                    90h
+                                    (0.0.2)
+                                    DCHL0886
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0792
+                                    ILUMINAÇÃO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0742
+                                    HISTÓRIA DO TEATRO LATINO AMERICANO
+                                    60h
+                                    (2.1.0)
+                                    DCHL0737
+                                    DCHL0740
+                                    TEATRO BRASILEIRO
+                                    60h
+                                    (2.1.0)
+                                    DCHL0737
+                                    DCHL0888
+                                    135h
+                                    (0.0.3)
+                                    DCHL0887
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0743
+                                    TRABALHO DE CONCLUSÃO DE CURSO - TCC (2)
+                                    105h
+                                    (1.3.0)
+                                    -
+                                    DCHL0889
+                                    90h
+                                    (0.0.2)
+                                    DCHL0888
+>>>>>>>>>>>
+>>>>>>>>>>>
+                                    DCHL0755
+                                    SEMINÁRIOS EM TEATRO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0754
+                                    TÓPICOS ESPECIAIS EM TEATRO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0753
+                                    TEATRO DA VOZ: ESTUDO DO CANTO E DA FALA EM CENA
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0752
+                                    PRODUÇÃO E GESTÃO CULTURAL EM TEATRO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0751
+                                    TEATRO E INCLUSÃO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0750
+                                    TEATRO ÉPICO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0749
+                                    TEATRO DE GRUPO E PROCESSOS DE CRIAÇÃO
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0748
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0747
+                                    PRÁTICA EM TEATRO PARA RUA (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0746
+                                    EDUCAÇÃO ESTÉTICA E LETRAMENTO NA EDUCAÇÃO DE JOVENS E ADULTOS
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0745
+                                    PRÁTICA EM TEATRO PARA A CRIANÇA (2)
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0554
+                                    TECNOLOGIAS APLICADAS À DANÇA
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0553
+                                    INTRODUCÃO À CRÍTICA DE ESPETÁCULOS
+                                    60h
+                                    (2.1.0)
+                                    -
+                                    DCHL0547
+                                    FUNDAMENTOS DO TEATRO GREGO
+                                    60h
+                                    (2.1.0)
+                                    -
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>

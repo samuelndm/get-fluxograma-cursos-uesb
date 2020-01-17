@@ -1,0 +1,2279 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="7u70XQJ8DQq90CTGaUUiAipsMO5InJuIcMp4Anzg">
+    
+            <title>Bacharelado Em Ciência Da Computação - Matutino - Vitória Da Conquista - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Ciência Da Computação - Matutino - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO</h1>
+                <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 3440h</li>
+                        <li class="list-inline-item">Créditos: 182</li>
+                        <li class="list-inline-item">Turno: Matutino</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20121_mat_computacao.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 27)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0725
+                                </td>
+                                <td >
+                                    MATEMÁTICA DISCRETA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0221
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0716
+                                </td>
+                                <td >
+                                    INGLÊS APLICADO À COMPUTAÇÃO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0723
+                                </td>
+                                <td >
+                                    ALGORITMOS E PROGRAMAÇÃO I
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (4.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0726
+                                </td>
+                                <td >
+                                    ESTATÍSTICA E PROBABILIDADE PARA COMPUTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0715
+                                </td>
+                                <td >
+                                    LEITURA E ESCRITA DE TEXTOS ACADÊMICOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0724
+                                </td>
+                                <td >
+                                    GEOMETRIA ANALÍTICA E CÁLCULO VETORIAL (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 26)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0731
+                                </td>
+                                <td >
+                                    LÓGICA PARA COMPUTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0729
+                                </td>
+                                <td >
+                                    TEORIA DOS GRAFOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0725
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0727
+                                </td>
+                                <td >
+                                    ALGORITMOS E PROGRAMAÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0723
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0732
+                                </td>
+                                <td >
+                                    FÍSICA PARA COMPUTAÇÃO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0221
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0730
+                                </td>
+                                <td >
+                                    FUNDAMENTOS DE SISTEMA DE INFORMAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0728
+                                </td>
+                                <td >
+                                    ÁLGEBRA LINEAR (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0222
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0221
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 25)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0733
+                                </td>
+                                <td >
+                                    ALGORITMOS E ESTRUTURA DE DADOS (3)
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (4.1.0)
+                                </td>
+                                <td>
+                                    DCET0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0740
+                                </td>
+                                <td >
+                                    LINGUAGENS FORMAIS E AUTÔMATOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0725
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0734
+                                </td>
+                                <td >
+                                    PROGRAMAÇÃO CONCORRENTE (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0223
+                                </td>
+                                <td >
+                                    CÁLCULO DIFERENCIAL E INTEGRAL III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0222
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0737
+                                </td>
+                                <td >
+                                    CIRCUITOS DIGITAIS (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0725, DCET0731
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0736
+                                </td>
+                                <td >
+                                    INTERAÇÃO HUMANO-COMPUTADOR
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0730
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0738
+                                </td>
+                                <td >
+                                    FÍSICA PARA COMPUTAÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0732
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0742
+                                </td>
+                                <td >
+                                    ENGENHARIA DE SOFTWARE (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0730
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0735
+                                </td>
+                                <td >
+                                    TEORIA DA COMPUTAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0740
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0739
+                                </td>
+                                <td >
+                                    PROGRAMAÇÃO DECLARATIVA
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (4.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0743
+                                </td>
+                                <td >
+                                    ARQUITETURA DE COMPUTADORES I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0737
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0741
+                                </td>
+                                <td >
+                                    REDES DE COMPUTADORES I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0744
+                                </td>
+                                <td >
+                                    BANCO DE DADOS I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0733
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0746
+                                </td>
+                                <td >
+                                    SISTEMAS INTELIGENTES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0739
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0751
+                                </td>
+                                <td >
+                                    BANCO DE DADOS II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0744
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0748
+                                </td>
+                                <td >
+                                    ANÁLISE E MODELAGEM DE SISTEMAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0727, DCET0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0745
+                                </td>
+                                <td >
+                                    PARADIGMAS DE LINGUAGEM DE PROGRAMAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0723, DCET0739
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0747
+                                </td>
+                                <td >
+                                    REDES DE COMPUTADORES II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0741
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0750
+                                </td>
+                                <td >
+                                    SISTEMAS OPERACIONAIS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0749
+                                </td>
+                                <td >
+                                    ARQUITETURA DE COMPUTADORES II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0743
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 17)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0753
+                                </td>
+                                <td >
+                                    ANÁLISE DE ALGORITMOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0725, DCET0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0754
+                                </td>
+                                <td >
+                                    EMPREENDEDORISMO  E INOVAÇÃO EM COMPUTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0755
+                                </td>
+                                <td >
+                                    SISTEMAS DISTRIBUÍDOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0747
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0796
+                                </td>
+                                <td >
+                                    MÉTODOS E TÉCNICAS DE PESQUISA (4)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0752
+                                </td>
+                                <td >
+                                    COMPILADORES (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0733, DCET0740
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 180h  - 
+                                            CRED 10)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0756
+                                </td>
+                                <td >
+                                    TRABALHO SUPERVISIONADO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0796
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0758
+                                </td>
+                                <td >
+                                    LEGISLAÇÃO E ÉTICA EM COMPUTAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0757
+                                </td>
+                                <td >
+                                    COMPUTAÇÃO GRÁFICA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0724, DCET0728
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 150h  - 
+                                            CRED 6)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0759
+                                </td>
+                                <td >
+                                    TRABALHO SUPERVISIONADO II
+                                </td>
+                                <td >
+                                    150h
+                                </td>
+                                <td >
+                                    (2.4.0)
+                                </td>
+                                <td>
+                                    DCET0756
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 4020h  - 
+                                            CRED 211)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0784
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM SISTEMAS DISTRIBUÍDOS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0765
+                                </td>
+                                <td >
+                                    QUALIDADE DE SOFTWARE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0783
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM REDES DE COMPUTADORES I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0771
+                                </td>
+                                <td >
+                                    DESENVOLVIMENTO DE SISTEMAS WEB
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0727, DCET0736
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0807
+                                </td>
+                                <td >
+                                    AUTOMAÇÃO INTELIGENTE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0808
+                                </td>
+                                <td >
+                                    SISTEMAS ESPECIALISTAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0775
+                                </td>
+                                <td >
+                                    DESENVOLVIMENTO DE JOGOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0797
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM SISTEMAS EMBARCADOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0449
+                                </td>
+                                <td >
+                                    GERÊNCIA DE NEGÓCIOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0309
+                                </td>
+                                <td >
+                                    ADMINISTRAÇÃO ESTRATÉGICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0717
+                                </td>
+                                <td >
+                                    INGLÊS APLICADO À COMPUTAÇÃO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0799
+                                </td>
+                                <td >
+                                    TRANSDUTORES, ATUADORES E SENSORES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0774
+                                </td>
+                                <td >
+                                    DESENVOLVIMENTO AVANÇADO EM SOFTWARE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0720
+                                </td>
+                                <td >
+                                    INGLÊS APLICADO À COMPUTAÇÃO III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0001
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ECONOMIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0329
+                                </td>
+                                <td >
+                                    ADMINISTRAÇÃO DE EMPRESAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0782
+                                </td>
+                                <td >
+                                    SISTEMAS DE MIDDLEWARE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0451
+                                </td>
+                                <td >
+                                    ORGANIZAÇÃO, SISTEMAS E MÉTODOS (1)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0790
+                                </td>
+                                <td >
+                                    ENGENHARIA DE SISTEMAS EMBARCADOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0781
+                                </td>
+                                <td >
+                                    REDES MÓVEIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0306
+                                </td>
+                                <td >
+                                    PSICOLOGIA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0809
+                                </td>
+                                <td >
+                                    BANCOS DE DADOS INTELIGENTES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0778
+                                </td>
+                                <td >
+                                    SEMÂNTICA DE LINGUAGENS DE PROGRAMAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0800
+                                </td>
+                                <td >
+                                    PROCESSAMENTO DE VOZ
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0786
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM REDES DE COMPUTADORES II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0806
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM SISTEMAS INTELIGENTES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0791
+                                </td>
+                                <td >
+                                    PROTOTIPAÇÃO DE CIRCUITOS DIGITAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0792
+                                </td>
+                                <td >
+                                    SISTEMAS DE TEMPO REAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0785
+                                </td>
+                                <td >
+                                    REDES COMPLEXAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0794
+                                </td>
+                                <td >
+                                    ARQUITETURAS AVANÇADAS DE COMPUTADORES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0766
+                                </td>
+                                <td >
+                                    GERENCIAMENTO DE PROJETOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0748
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0340
+                                </td>
+                                <td >
+                                    COMPUTADOR E SOCIEDADE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0811
+                                </td>
+                                <td >
+                                    PROCESSAMENTO DE LINGUAGEM NATURAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0430
+                                </td>
+                                <td >
+                                    PROJETO DE SISTEMAS OPERACIONAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0764
+                                </td>
+                                <td >
+                                    ENGENHARIA DE REQUISITOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0779
+                                </td>
+                                <td >
+                                    WEB SEMÂNTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0801
+                                </td>
+                                <td >
+                                    CIRCUITOS ELETRÔNICOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0804
+                                </td>
+                                <td >
+                                    AGENTES INTELIGENTES I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0746
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0803
+                                </td>
+                                <td >
+                                    APRENDIZAGEM DE MÁQUINA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0746
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0797
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA (5)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0502
+                                </td>
+                                <td >
+                                    REALIDADE BRASILEIRA CONTEMPORÂNEA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0719
+                                </td>
+                                <td >
+                                    FRANCÊS INSTRUMENTAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0718
+                                </td>
+                                <td >
+                                    ESPANHOL INSTRUMENTAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0506
+                                </td>
+                                <td >
+                                    TEORIA GERAL DA ADMINISTRAÇÃO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0709
+                                </td>
+                                <td >
+                                    LIBRAS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0125
+                                </td>
+                                <td >
+                                    CONTABILIDADE GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0002
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0763
+                                </td>
+                                <td >
+                                    MÉTODOS FORMAIS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0725, DCET0731
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0767
+                                </td>
+                                <td >
+                                    DESENVOLVIMENTO DE SOFTWARE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0727, DCET0748
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0770
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM LINGUAGEM DE PROGRAMAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0769
+                                </td>
+                                <td >
+                                    SISTEMAS DE APOIO À DECISÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0746, DCET0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0768
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM ENGENHARIA DE SOFTWARES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0773
+                                </td>
+                                <td >
+                                    TESTE DE SOFTWARE
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0772
+                                </td>
+                                <td >
+                                    SOFTWARE EDUCATIVO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0776
+                                </td>
+                                <td >
+                                    SEGURANÇA EM SISTEMAS COMPUTACIONAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0747
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0777
+                                </td>
+                                <td >
+                                    AVALIAÇÃO DE DESEMPENHO DE SISTEMAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0726, DCET0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0780
+                                </td>
+                                <td >
+                                    SISTEMAS DISTRIBUÍDOS PERVASIVOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0789
+                                </td>
+                                <td >
+                                    REDES NEURAIS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0803
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0788
+                                </td>
+                                <td >
+                                    SISTEMAS DE COMUNICAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0787
+                                </td>
+                                <td >
+                                    TÓPICOS AVANÇADOS EM SISTEMAS DISTRIBUÍDOS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0793
+                                </td>
+                                <td >
+                                    PROCESSAMENTO DE SINAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0796
+                                </td>
+                                <td >
+                                    CONCEPÇÃO DE CIRCUITOS INTEGRADOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0795
+                                </td>
+                                <td >
+                                    ROBÓTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0798
+                                </td>
+                                <td >
+                                    AMBIENTES DE PROJETOS DE SISTEMAS EMBARCADOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0810
+                                </td>
+                                <td >
+                                    PERCEPÇÃO COMPUTACIONAL E RECONHECIMENTO DE PADRÕES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0805
+                                </td>
+                                <td >
+                                    AGENTES INTELIGENTES II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0746
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0802
+                                </td>
+                                <td >
+                                    ENGENHARIA DO CONHECIMENTO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

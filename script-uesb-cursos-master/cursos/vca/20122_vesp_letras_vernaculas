@@ -1,0 +1,3163 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="7u70XQJ8DQq90CTGaUUiAipsMO5InJuIcMp4Anzg">
+    
+            <title>Licenciatura Em Letras Vernáculas - Vespertino - Vitória Da Conquista - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Licenciatura Em Letras Vernáculas - Vespertino - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">LICENCIATURA EM LETRAS VERNÁCULAS</h1>
+                <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 3270h</li>
+                        <li class="list-inline-item">Créditos: 159</li>
+                        <li class="list-inline-item">Turno: Vespertino</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20122_vesp_letras_vernaculas.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0736
+                                </td>
+                                <td >
+                                    RETÓRICA E POÉTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0735
+                                </td>
+                                <td >
+                                    TEORIA DA LITERATURA E CIÊNCIAS HUMANAS I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0734
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LEITURA E ESCRITA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0733
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0730
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA I - (INGLÊS,ESPANHOL OU FRANCÊS) (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0711
+                                </td>
+                                <td >
+                                    LIBRAS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0024
+                                </td>
+                                <td >
+                                    PSICOLOGIA DA APRENDIZAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 420h  - 
+                                            CRED 25)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0738
+                                </td>
+                                <td >
+                                    MORFOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0740
+                                </td>
+                                <td >
+                                    FONÉTICA E FONOLOGIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0734, DELL0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0741
+                                </td>
+                                <td >
+                                    TEORIA DA LITERATURA E CIÊNCIAS HUMANAS II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0735
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0742
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA II (INGLÊS, ESPANHOL OU FRANCÊS) (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0730
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0743
+                                </td>
+                                <td >
+                                    FORMAÇÃO DO CAMPO LITERÁRIO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0924
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA (6)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0161
+                                </td>
+                                <td >
+                                    POLÍTICA EDUCACIONAL: ESTRUTURA E FUNCIONAMENTO DA EDUCAÇÃO BÁSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 435h  - 
+                                            CRED 25)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0748
+                                </td>
+                                <td >
+                                    HISTÓRIA LITERÁRIA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0747
+                                </td>
+                                <td >
+                                    LETRAS DO IMPÉRIO LUSO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0741
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0746
+                                </td>
+                                <td >
+                                    DIDÁTICA DA LINGUAGEM - LÍNGUA PORTUGUESA
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0745
+                                </td>
+                                <td >
+                                    MODELOS DE ANÁLISE FONOLÓGICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0740
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0744
+                                </td>
+                                <td >
+                                    SINTAXE I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0734, DELL0738
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0727
+                                </td>
+                                <td >
+                                    CULTURA BRASILEIRA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0701
+                                </td>
+                                <td >
+                                    HISTÓRIA E CULTURA AFRO-BRASILEIRA E INDÍGENA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 17)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0753
+                                </td>
+                                <td >
+                                    LETRAS DO IMPÉRIO LUSO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0747
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0752
+                                </td>
+                                <td >
+                                    VARIAÇÃO E MUDANÇA LINGUÍSTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0745, DELL0744
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0751
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO FUNDAMENTAL DE LÍNGUA PORTUGUESA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DELL0746, DELL0745
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0750
+                                </td>
+                                <td >
+                                    LATIM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0745, DELL0744
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0749
+                                </td>
+                                <td >
+                                    SINTAXE II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0744
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 19)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0759
+                                </td>
+                                <td >
+                                    LITERATURA BRASILEIRA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0758
+                                </td>
+                                <td >
+                                    ESTÁGIO PESQUISA - LÍNGUA PORTUGUESA
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (0.0.2)
+                                </td>
+                                <td>
+                                    DELL0752, DELL0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0757
+                                </td>
+                                <td >
+                                    METODOLOGIA DO ENSINO MÉDIO DE LÍNGUA PORTUGUESA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DELL0752, DELL0746
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0756
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DA SIGNIFICAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0749, DELL0745
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0755
+                                </td>
+                                <td >
+                                    LINGUÍSTICA HISTÓRICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0750
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0754
+                                </td>
+                                <td >
+                                    LETRAS DO IMPÉRIO LUSO III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0747
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 330h  - 
+                                            CRED 16)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0764
+                                </td>
+                                <td >
+                                    LITERATURA BRASILEIRA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0763
+                                </td>
+                                <td >
+                                    ESTÁGIO EXTENSÃO - LÍNGUA PORTUGUESA
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (0.0.2)
+                                </td>
+                                <td>
+                                    DELL0758
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0762
+                                </td>
+                                <td >
+                                    LITERATURA PORTUGUESA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0754
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0761
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS EM NEUROLINGUÍSTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0760
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DE TEXTOS ORAIS E ESCRITOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0734, DELL0756
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 210h  - 
+                                            CRED 8)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0767
+                                </td>
+                                <td >
+                                    ESTÁGIO REGÊNCIA NO ENSINO FUNDAMENTAL EM LÍNGUA PORTUGUESA
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (0.0.2)
+                                </td>
+                                <td>
+                                    DELL0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0766
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DE AQUISIÇÃO DA LINGUAGEM (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0749, DELL0745
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0765
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS EM ANÁLISE DE DISCURSO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 255h  - 
+                                            CRED 10)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0771
+                                </td>
+                                <td >
+                                    SEMINÁRIO INTERDISCIPLINAR (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0746
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0770
+                                </td>
+                                <td >
+                                    ESTÁGIO EM ESPAÇOS COMUNITÁRIOS
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0769
+                                </td>
+                                <td >
+                                    ESTÁGIO REGÊNCIA NO ENSINO MÉDIO EM LÍNGUA PORTUGUESA
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (0.0.2)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0768
+                                </td>
+                                <td >
+                                    LINGUÍSTICA: GRAMÁTICAS CIENTÍFICAS E PEDAGÓGICAS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0760
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 7080h  - 
+                                            CRED 430)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0805
+                                </td>
+                                <td >
+                                    DISCURSO E SUBJETIVIDADE (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0765
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0800
+                                </td>
+                                <td >
+                                    DISCURSO E ARGUMENTAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0765
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0795
+                                </td>
+                                <td >
+                                    CONSTITUIÇÃO HISTÓRICA DA LÍNGUA ESPANHOLA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0755
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0790
+                                </td>
+                                <td >
+                                    AQUISIÇÃO DA MODALIDADE ESCRITA DO PORTUGUÊS POR SURDOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0711, DELL0766
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0785
+                                </td>
+                                <td >
+                                    AQUISIÇÃO DA LINGUAGEM II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0766
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0780
+                                </td>
+                                <td >
+                                    AQUISIÇÃO DA LINGUAGEM I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0766
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0806
+                                </td>
+                                <td >
+                                    TEORIA GRAMATICAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0749
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0801
+                                </td>
+                                <td >
+                                    SOCIO-HISTÓRIA DO PORTUGUÊS DO BRASIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0796
+                                </td>
+                                <td >
+                                    SEMÂNTICA E SINTAXE (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0766
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0791
+                                </td>
+                                <td >
+                                    LINGUÍSTICA E TECNOLOGIAS DE INFORMAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0760
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0786
+                                </td>
+                                <td >
+                                    LINGUÍSTICA E SEMIÓTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0781
+                                </td>
+                                <td >
+                                    LEXICOLOGIA E LEXICOGRAFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0776
+                                </td>
+                                <td >
+                                    LATIM MEDIEVAL E RENASCENTISTA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0772
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À PESQUISA EM ESTUDOS LINGUÍSTICOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0807
+                                </td>
+                                <td >
+                                    TÓPICOS EM HISTÓRIA DAS IDÉIAS LINGUÍSTICAS I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0802
+                                </td>
+                                <td >
+                                    TÓPICOS DE FONOLOGIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0740
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0797
+                                </td>
+                                <td >
+                                    TÓPICOS DE FONÉTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0740
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0792
+                                </td>
+                                <td >
+                                    TÓPICOS DE AQUISIÇÃO DA LINGUAGEM
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0766
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0787
+                                </td>
+                                <td >
+                                    TÓPICOS DE ANÁLISE DE DISCURSO II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0765
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0782
+                                </td>
+                                <td >
+                                    TÓPICOS DE ANÁLISE DE DISCURSO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0765
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0777
+                                </td>
+                                <td >
+                                    TÓPICOS DE ANÁLISE DA CONVERSAÇÃO II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0760
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0773
+                                </td>
+                                <td >
+                                    TÓPICOS DE ANÁLISE DA CONVERSAÇÃO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0760
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0808
+                                </td>
+                                <td >
+                                    TÓPICOS DE LINGUÍSTICA TEXTUAL II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0760
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0803
+                                </td>
+                                <td >
+                                    TÓPICOS DE LINGUÍSTICA TEXTUAL I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0760
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0798
+                                </td>
+                                <td >
+                                    TÓPICOS DE LINGUÍSTICA HISTÓRICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0755
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0793
+                                </td>
+                                <td >
+                                    TÓPICOS DE LINGUÍSTICA HISTÓRICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0755
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0778
+                                </td>
+                                <td >
+                                    TÓPICOS EM LEXICOGRAFIA E LEXICOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0774
+                                </td>
+                                <td >
+                                    TÓPICOS EM HISTÓRIA DAS IDÉIAS LINGUÍSTICAS II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0733
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0809
+                                </td>
+                                <td >
+                                    TÓPICOS EM NEUROLINGUÍSTICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0804
+                                </td>
+                                <td >
+                                    TÓPICOS EM NEUROLINGUÍSTICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0799
+                                </td>
+                                <td >
+                                    TÓPICOS DE TEORIA GRAMATICAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0749
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0794
+                                </td>
+                                <td >
+                                    TÓPICOS DE TEORIA GRAMATICAL I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0749
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0789
+                                </td>
+                                <td >
+                                    TÓPICOS DE SOCIOLINGUÍSTICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0752
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0784
+                                </td>
+                                <td >
+                                    TÓPICOS DE SOCIOLINGUÍSTICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0752
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0779
+                                </td>
+                                <td >
+                                    TÓPICOS DE SEMÂNTICA E PRAGMÁTICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0775
+                                </td>
+                                <td >
+                                    TÓPICOS DE SEMÂNTICA E PRAGMÁTICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0756
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0843
+                                </td>
+                                <td >
+                                    LITERATURA COMPARADA: PROBLEMAS E MÉTODOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0838
+                                </td>
+                                <td >
+                                    LITERATURA COMPARADA E O ESTUDO DE OBRAS POÉTICAS DO SÉC. XX (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0833
+                                </td>
+                                <td >
+                                    HISTÓRIA LITERÁRIA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0748
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0828
+                                </td>
+                                <td >
+                                    CRÍTICA TEXTUAL E ECDÓTICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0823
+                                </td>
+                                <td >
+                                    CRÍTICA TEXTUAL E ECDÓTICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0818
+                                </td>
+                                <td >
+                                    CRÍTICA FILOLÓGICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0844
+                                </td>
+                                <td >
+                                    TEORIA LITERÁRIA E CINEMA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0748
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0839
+                                </td>
+                                <td >
+                                    TEORIA DA PSICANÁLISE E DISCURSO FICCIONAL (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0834
+                                </td>
+                                <td >
+                                    TEORIA DA LITERATURA E HISTÓRIA LITERÁRIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0829
+                                </td>
+                                <td >
+                                    TEORIA DA LITERATURA COMPARADA EM NÍVEL AVANÇADO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0824
+                                </td>
+                                <td >
+                                    PSICANÁLISE E ANÁLISE LITERÁRIA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0819
+                                </td>
+                                <td >
+                                    PROBLEMAS EM TEORIA DA LITERATURA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0814
+                                </td>
+                                <td >
+                                    LITERATURA INFANTIL II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0810
+                                </td>
+                                <td >
+                                    LITERATURA INFANTIL I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0845
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA X (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0840
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA IX (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0835
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA VIII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0830
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA VII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0825
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA IV (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0820
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA I (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743, DELL0748
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0815
+                                </td>
+                                <td >
+                                    TEORIAS ESTÉTICAS E PRODUÇÃO LITERÁRIA NO BRASIL E AMÉRICA LATINA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0811
+                                </td>
+                                <td >
+                                    TEORIAS ESTÉTICAS E PROD. LITERÁRIA NA EUROPA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0846
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA IV (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0841
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA III (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0836
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0831
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0826
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA XIV
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0821
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA XIII
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0816
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA  XII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0812
+                                </td>
+                                <td >
+                                    TÓPICOS DE HISTÓRIA DA LITERATURA BRASILEIRA XI (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0759
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0847
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA XII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0842
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA XI (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0837
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA X (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0832
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA IX (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0827
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA VIII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0822
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA VII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0817
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA VI (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0813
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA AFRICANA DE EXPRESSÃO PORTUGUESA V (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0850
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA VIII (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0762
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0863
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA VI (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0762
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0861
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA V (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0762
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0860
+                                </td>
+                                <td >
+                                    GÊNEROS DIGITAIS E ENSINO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0859
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA IV (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0858
+                                </td>
+                                <td >
+                                    ESTRATÉGIA DE LEITURA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0857
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA III (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0856
+                                </td>
+                                <td >
+                                    ESCRITA E ENSINO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0855
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0852
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0736, DELL0743
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0848
+                                </td>
+                                <td >
+                                    TÓPICOS DE LITERATURA PORTUGUESA VII (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DELL0762
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0723
+                                </td>
+                                <td >
+                                    LEITURA E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0854
+                                </td>
+                                <td >
+                                    LITERATURA E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0851
+                                </td>
+                                <td >
+                                    LINGUAGEM E ENSINO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0849
+                                </td>
+                                <td >
+                                    LINGUAGEM E INTERAÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0726
+                                </td>
+                                <td >
+                                    PRÁTICAS DE LETRAMENTO NA EDUCAÇÃO DE SURDOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0711, DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0724
+                                </td>
+                                <td >
+                                    ORALIDADE E ENSINO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0869
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA III (Francês)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0872
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA IV (Francês)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0871
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA IV (Espanhol)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0870
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA III (Inglês)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0867
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA III (Espanhol)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0865
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DE L2
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0932
+                                </td>
+                                <td >
+                                    CULTURA BRASILEIRA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0868
+                                </td>
+                                <td >
+                                    TÓPICOS DE LINGUÍSTICA APLICADA AO ENSINO DE LÍNGUAS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0739
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE LÍNGUA ESTRANGEIRA IV (Inglês)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0742
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0713
+                                </td>
+                                <td >
+                                    LIBRAS III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0711
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0712
+                                </td>
+                                <td >
+                                    LIBRAS II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DELL0711
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0107
+                                </td>
+                                <td >
+                                    CULTURA BRASILEIRA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0931
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM SOCIOLOGIA IV (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0930
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM SOCIOLOGIA III (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0929
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM SOCIOLOGIA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0928
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM SOCIOLOGIA I (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0927
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM CULTURA BRASILEIRA II (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0926
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM CULTURA BRASILEIRA I (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0401
+                                </td>
+                                <td >
+                                    CULTURA BRASILEIRA III (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0708
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM HISTÓRIA DA PENÍNSULA IBÉRICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0707
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM HISTÓRIA DA PENÍNSULA IBÉRICA I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0706
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM HISTÓRIA DO BRASIL IV (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0705
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM HISTÓRIA DO BRASIL III (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0704
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM HISTÓRIA DO BRASIL II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DH0703
+                                </td>
+                                <td >
+                                    TÓPICOS ESPECIAIS EM HISTÓRIA DO BRASIL I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0727
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0728
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AOS ESTUDOS DE LETRAMENTO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0725
+                                </td>
+                                <td >
+                                    ENSINO DE LÍNGUA PORTUGUESA COMO SEGUNDA LÍNGUA PARA O SURDO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0711, DELL0751, DELL0757
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

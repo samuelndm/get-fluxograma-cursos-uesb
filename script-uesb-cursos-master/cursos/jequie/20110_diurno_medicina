@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="zItmpizseALrfpuE5YhLERgl9ylPUm42FqxP1apA">
+    
+            <title>Bacharelado Em Medicina - Diúrno - Jequié - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Medicina - Diúrno - Jequié - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM MEDICINA</h1>
+                <h2 class="mb-4"><small>CAMPUS: JEQUIÉ</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 8625h</li>
+                        <li class="list-inline-item">Créditos: 309</li>
+                        <li class="list-inline-item">Turno: Diúrno</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20110_diurno_medicina.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 1215h  - 
+                                            CRED 51)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0708
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTEGRAÇÃO ENSINO, SERVIÇO E COMUNIDADE I (PIESC)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0707
+                                </td>
+                                <td >
+                                    ABRANGÊNCIA DAS AÇÕES DE SAÚDE
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (2.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0705
+                                </td>
+                                <td >
+                                    ATUALIZAÇÃO I (eletiva)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0701
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES I
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0700
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AO ESTUDO DA MEDICINA
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCB0703
+                                </td>
+                                <td >
+                                    MECANISMOS DE AGRESSÃO E DEFESA
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (4.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCB0702
+                                </td>
+                                <td >
+                                    FUNÇÕES BIOLÓGICAS
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (3.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCB0701
+                                </td>
+                                <td >
+                                    METABOLISMO
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCB0700
+                                </td>
+                                <td >
+                                    CONCEPÇÃO E FORMAÇÃO DO SER HUMANO
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 1215h  - 
+                                            CRED 51)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0717
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTEGRAÇÃO ENSINO, SERVIÇO E COMUNIDADE II (PIESC)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0716
+                                </td>
+                                <td >
+                                    PERCEPÇÃO, CONSCIÊNCIA E EMOÇÃO
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0715
+                                </td>
+                                <td >
+                                    NASCIMENTO, CRESCIMENTO E DESENVOLVIMENTO
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0714
+                                </td>
+                                <td >
+                                    ATUALIZAÇÃO II (eletiva)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0713
+                                </td>
+                                <td >
+                                    PROCESSO DE ENVELHECIMENTO
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (4.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0712
+                                </td>
+                                <td >
+                                    DOENÇAS RESULTANTES DA AGRESSÃO AO MEIO AMBIENTE
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (2.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0711
+                                </td>
+                                <td >
+                                    LOCOMOÇÃO E PREENSÃO
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (2.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0710
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES II
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0709
+                                </td>
+                                <td >
+                                    PROLIFERAÇÃO CELULAR
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (4.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 1200h  - 
+                                            CRED 51)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0726
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTEGRAÇÃO ENSINO, SERVIÇO E COMUNIDADE III (PIESC)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0725
+                                </td>
+                                <td >
+                                    FEBRE, INFLAMAÇÃO E INFECÇÃO
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0724
+                                </td>
+                                <td >
+                                    DOR ABDOMINAL, DIARRÉIA, VÔMITOS E ICTERÍCIA
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (4.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0723
+                                </td>
+                                <td >
+                                    DOR
+                                </td>
+                                <td >
+                                    150h
+                                </td>
+                                <td >
+                                    (4.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0722
+                                </td>
+                                <td >
+                                    PROBLEMAS MENTAIS E DE COMPORTAMENTO
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (2.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0721
+                                </td>
+                                <td >
+                                    PERDA DE SANGUE
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0720
+                                </td>
+                                <td >
+                                    FADIGA, PERDA DE PESO E ANEMIAS
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0719
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES III
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0718
+                                </td>
+                                <td >
+                                    TRABALHO DE CONCLUSÃO DE CURSO I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 1170h  - 
+                                            CRED 49)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0735
+                                </td>
+                                <td >
+                                    PRÁTICAS DE INTEGRAÇÃO ENSINO, SERVIÇO E COMUNIDADE IV (PIESC)
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0734
+                                </td>
+                                <td >
+                                    DISPNÉIA, DOR TORÁCICA, EDEMAS E TOSSE
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (3.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0733
+                                </td>
+                                <td >
+                                    DISTÚRBIOS SENSORIAS, MOTORES E DA CONSCIÊNCIA
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0732
+                                </td>
+                                <td >
+                                    SAÚDE DA MULHER, SEXUALIDADE HUMANA E PLANEJAMENTO FAMILIAR
+                                </td>
+                                <td >
+                                    165h
+                                </td>
+                                <td >
+                                    (3.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0731
+                                </td>
+                                <td >
+                                    DESORDENS NUTRICIONAIS E METABÓLICAS
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (2.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0730
+                                </td>
+                                <td >
+                                    MANIFESTAÇÕES EXTERNAS DAS DOENÇAS E IATROGENIAS
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0729
+                                </td>
+                                <td >
+                                    EMERGÊNCIAS
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (3.3.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0728
+                                </td>
+                                <td >
+                                    HABILIDADES CLÍNICAS E ATITUDES IV
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (1.4.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0727
+                                </td>
+                                <td >
+                                    TRABALHO DE CONCLUSÃO DE CURSO II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (1.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 1905h  - 
+                                            CRED 53)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0740
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM ÁREA À ESCOLHA DO ALUNO
+                                </td>
+                                <td >
+                                    360h
+                                </td>
+                                <td >
+                                    (0.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0739
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM EMERGÊNCIAS E TRAUMA I
+                                </td>
+                                <td >
+                                    240h
+                                </td>
+                                <td >
+                                    (1.0.5)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0738
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM SAÚDE DO ADULTO I
+                                </td>
+                                <td >
+                                    435h
+                                </td>
+                                <td >
+                                    (5.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0737
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM SAÚDE DA MULHER I
+                                </td>
+                                <td >
+                                    435h
+                                </td>
+                                <td >
+                                    (5.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0736
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM SAÚDE DA CRIANÇA E DO ADOLESCENTE I
+                                </td>
+                                <td >
+                                    435h
+                                </td>
+                                <td >
+                                    (5.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 1920h  - 
+                                            CRED 54)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0745
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM SAÚDE COLETIVA
+                                </td>
+                                <td >
+                                    420h
+                                </td>
+                                <td >
+                                    (4.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0744
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM EMERGÊNCIAS E TRAUMA II
+                                </td>
+                                <td >
+                                    240h
+                                </td>
+                                <td >
+                                    (1.0.5)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0743
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONDADO EM SAÚDE DO ADULTO II
+                                </td>
+                                <td >
+                                    420h
+                                </td>
+                                <td >
+                                    (4.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0742
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM SAÚDE DA MULHER II
+                                </td>
+                                <td >
+                                    420h
+                                </td>
+                                <td >
+                                    (4.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DSII0741
+                                </td>
+                                <td >
+                                    ESTÁGIO CURRICULAR SUPERVISIONADO EM SAÚDE DA CRIANÇA E DO ADOLESCENTE II
+                                </td>
+                                <td >
+                                    420h
+                                </td>
+                                <td >
+                                    (4.0.8)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

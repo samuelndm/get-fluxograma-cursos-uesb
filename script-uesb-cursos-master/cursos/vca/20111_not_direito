@@ -1,0 +1,1929 @@
+<!DOCTYPE html>
+<!-- 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+██║   ██║██╔══╝  ╚════██║██╔══██╗
+╚██████╔╝███████╗███████║██████╔╝
+ ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+-->      
+<html lang="pt-br">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59582546-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59582546-4');
+    </script>
+
+
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="csrf-token" content="7u70XQJ8DQq90CTGaUUiAipsMO5InJuIcMp4Anzg">
+    
+            <title>Bacharelado Em Direito - Noturno - Vitória Da Conquista - Catálogo UESB</title>
+     
+    
+
+    <meta name='description' itemprop='description' content='Catálogo de Cursos UESB' />
+    <meta name='keywords' content='Catálogo, Cursos, UESB' />
+    <meta property='article:published_time' content="" />
+
+    <meta property="og:description"content="Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Bacharelado Em Direito - Noturno - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:url"content="" />
+    <meta property="og:type"content="website" />
+    <meta property="og:locale"content="pt-br" />
+    <meta property="og:site_name"content="Catálogo de Cursos UESB" />
+    <meta property="og:image"content="http://catalogo.uesb.br/images/logo-topo.png" />
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+
+        <link href="/css/app.css?id=e1f03cdbadb8704817fd" rel="stylesheet">
+
+    <link rel="shortcut icon" href="http://catalogo.uesb.br/favicon.ico">
+    
+</head>
+<body>
+    <div id="app">
+        <header>
+                <div class="top-home ">
+    <div class="container ">
+        <div class="row ">
+            <div class="col-sm-12 ">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="http://catalogo.uesb.br">
+        <img src="http://catalogo.uesb.br/images/logo-topo.png" alt="" class="img-fluid">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+        <ul class="navbar-nav">
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br">Apresentação</a>
+            </li>
+            <li class="nav-item   ">
+                <a class="nav-link" href="http://catalogo.uesb.br/cursos">Lista de Cursos</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/ementario">Ementário</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="http://catalogo.uesb.br/departamentos">Docentes por Departamento</a>
+            </li>
+        </ul>
+    </div>
+</nav>            </div>
+        </div>
+    </div>
+</div>        </header>
+        <main class="py-4">
+                <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mt-4 mb-0">BACHARELADO EM DIREITO</h1>
+                <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
+                <div class="card-curriculo">
+                    <b>INTEGRALIZAÇÃO CURRICULAR</b>
+                    <ul class="list-inline integralizacao">
+                        <li class="list-inline-item">Carga Horária: 4035h</li>
+                        <li class="list-inline-item">Créditos: 232</li>
+                        <li class="list-inline-item">Turno: Noturno</li>
+                        <li class="list-inline-item">Currículo: Básico                                   </li>
+                                                    <li class="list-inline-item">
+                                <a href="/storage/fluxogramas/20111_not_direito.pdf" target="_blank">
+                                    <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
+                                    Fluxograma
+                                </a> 
+                            </li>
+                                            </ul>
+                </div>
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 330h  - 
+                                            CRED 22)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0701
+                                </td>
+                                <td >
+                                    METODOLOGIA DA PESQUISA CIENTÍFICA (4)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0700
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOLOGIA (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0482
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ECONOMIA (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0707
+                                </td>
+                                <td >
+                                    LEITURA E ESCRITA DE TEXTOS ACADÊMICOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0481
+                                </td>
+                                <td >
+                                    INTRODUÇÃO AO DIREITO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0503
+                                </td>
+                                <td >
+                                    ANTROPOLOGIA JURÍDICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0152
+                                </td>
+                                <td >
+                                    CIÊNCIA POLÍTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 26)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0483
+                                </td>
+                                <td >
+                                    HERMENÊUTICA E LÓGICA JURÍDICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0481
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0484
+                                </td>
+                                <td >
+                                    DIREITO CIVIL I - PARTE GERAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0481
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0012
+                                </td>
+                                <td >
+                                    TEORIA DA CONSTITUIÇÃO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0481, DFCH0152
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0001
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0205
+                                </td>
+                                <td >
+                                    DIREITO PENAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0481
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0176
+                                </td>
+                                <td >
+                                    SOCIOLOGIA JURÍDICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DFCH0700
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0702
+                                </td>
+                                <td >
+                                    HISTÓRIA DO DIREITO (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 300h  - 
+                                            CRED 20)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0485
+                                </td>
+                                <td >
+                                    DIREITO CIVIL II - PARTE GERAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0484
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0324
+                                </td>
+                                <td >
+                                    PSICOLOGIA APLICADA AO DIREITO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0006
+                                </td>
+                                <td >
+                                    DIREITOS HUMANOS E CIDADANIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0206
+                                </td>
+                                <td >
+                                    DIREITO PENAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0205
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0201
+                                </td>
+                                <td >
+                                    DIREITO CONSTITUCIONAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0012
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0486
+                                </td>
+                                <td >
+                                    DIREITO CIVIL III - OBRIGAÇÕES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0485
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0179
+                                </td>
+                                <td >
+                                    TEORIA DO PROCESSO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0483
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0153
+                                </td>
+                                <td >
+                                    FILOSOFIA DO DIREITO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DFCH0001
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0207
+                                </td>
+                                <td >
+                                    DIREITO PENAL III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0206
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0202
+                                </td>
+                                <td >
+                                    DIREITO CONSTITUCIONAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0201
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0335
+                                </td>
+                                <td >
+                                    DIREITO AMBIENTAL E ECOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0201
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0488
+                                </td>
+                                <td >
+                                    ÉTICA (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DFCH0153
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0487
+                                </td>
+                                <td >
+                                    DIREITO CIVIL IV - TEORIA DOS CONTRATOS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0486
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0208
+                                </td>
+                                <td >
+                                    DIREITO PENAL IV
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0207
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0190
+                                </td>
+                                <td >
+                                    DIREITO DO TRABALHO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0486
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0209
+                                </td>
+                                <td >
+                                    DIREITO ADMINISTRATIVO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0768
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL CIVIL I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0486, DCSA0179
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0490
+                                </td>
+                                <td >
+                                    DIREITO CIVIL IV - A - CONTRATOS EM ESPÉCIE
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0487
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0489
+                                </td>
+                                <td >
+                                    DIREITO CIVIL V - COISAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0487
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0195
+                                </td>
+                                <td >
+                                    VISITAS ORIENTADAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DCSA0768
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0218
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL PENAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0179
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0191
+                                </td>
+                                <td >
+                                    DIREITO DO TRABALHO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0190
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0210
+                                </td>
+                                <td >
+                                    DIREITO ADMINISTRATIVO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0209
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0769
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL CIVIL II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0768
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 360h  - 
+                                            CRED 20)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0494
+                                </td>
+                                <td >
+                                    SERVIÇO DE ASSISTÊNCIA JURÍDICA I (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    DCSA0218, DCSA0769
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0493
+                                </td>
+                                <td >
+                                    DIREITO ESTADUAL E MUNICIPAL (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0492
+                                </td>
+                                <td >
+                                    DIREITO DA CRIANÇA E DO ADOLESCENTE (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCSA0205
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0491
+                                </td>
+                                <td >
+                                    DIREITO CIVIL VI - FAMÍLIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0489
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0338
+                                </td>
+                                <td >
+                                    MEDIAÇÃO E ARBITRAGEM
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0768
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0196
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE PRÁTICA JURÍDICA I
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCSA0769
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0219
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL PENAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0218
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0770
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL CIVIL III (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0769
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 345h  - 
+                                            CRED 20)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0498
+                                </td>
+                                <td >
+                                    SERVIÇO DE ASSISTÊNCIA JURÍDICA II (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    DCSA0218, DCSA0494, DCSA0769
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0497
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL PENAL III (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0219
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0496
+                                </td>
+                                <td >
+                                    DIREITO EMPRESARIAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0487
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0495
+                                </td>
+                                <td >
+                                    DIREITO CIVIL VII - SUCESSÕES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0491
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0178
+                                </td>
+                                <td >
+                                    METODOLOGIA DA PESQUISA JURÍDICA
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DFCH0701
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0197
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE PRÁTICA JURÍDICA II
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCSA0196
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0339
+                                </td>
+                                <td >
+                                    DIREITO DO CONSUMIDOR
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0487
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0771
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL CIVIL IV  (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0770
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">09 SEMESTRE  <small>(C.H. 405h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0501
+                                </td>
+                                <td >
+                                    SERVIÇO DE ASSISTÊNCIA JURÍDICA III (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    DCSA0219, DCSA0498, DCSA0769
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0500
+                                </td>
+                                <td >
+                                    DIREITO EMPRESARIAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0496
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0499
+                                </td>
+                                <td >
+                                    DIREITO CIVIL VIII - AGRÁRIO E URBANO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0243
+                                </td>
+                                <td >
+                                    ORIENTAÇÃO DE MONOGRAFIA I
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCSA0178
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0198
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE PRÁTICA JURÍDICA III
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCSA0219
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0212
+                                </td>
+                                <td >
+                                    DIREITO TRIBUTÁRIO I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202, DCSA0209
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0211
+                                </td>
+                                <td >
+                                    DIREITO PROCESSUAL DO TRABALHO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0179
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0203
+                                </td>
+                                <td >
+                                    DIREITO INTERNACIONAL PÚBLICO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DFCH0152, DCSA0202
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">10 SEMESTRE  <small>(C.H. 375h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0505
+                                </td>
+                                <td >
+                                    SERVIÇO DE ASSISTÊNCIA JURÍDICA IV (2)
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (0.0.1)
+                                </td>
+                                <td>
+                                    DCSA0219, DCSA0501, DCSA0769
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0504
+                                </td>
+                                <td >
+                                    DIREITO INTERNACIONAL PRIVADO (2)
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0503
+                                </td>
+                                <td >
+                                    DIREITO EMPRESARIAL III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0500
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0502
+                                </td>
+                                <td >
+                                    DIREITO CIVIL IX - RESPONSABILIDADE CIVIL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0490
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0244
+                                </td>
+                                <td >
+                                    ORIENTAÇÃO DE MONOGRAFIA II
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCSA0243
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0199
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE PRÁTICA JURÍDICA IV
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCSA0191, DCSA0211
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0213
+                                </td>
+                                <td >
+                                    DIREITO TRIBUTÁRIO II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0212
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0225
+                                </td>
+                                <td >
+                                    DIREITO PREVIDENCIÁRIO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCSA0191
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 540h  - 
+                                            CRED 34)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0708
+                                </td>
+                                <td >
+                                    LATIM JURÍDICO
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0013
+                                </td>
+                                <td >
+                                    DIREITO AUTORAL E PROPRIEDADE INDUSTRIAL
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0019
+                                </td>
+                                <td >
+                                    DIREITO PENITENCIÁRIO
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0469
+                                </td>
+                                <td >
+                                    SERVIÇOS NOTARIAIS E REGISTROS PÚBLICOS
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0489
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0466
+                                </td>
+                                <td >
+                                    PROCESSO E TÉCNICA LEGISLATIVOS
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0463
+                                </td>
+                                <td >
+                                    MEDICINA LEGAL
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0208
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0467
+                                </td>
+                                <td >
+                                    DIREITOS HUMANOS E DEMOCRACIA
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0465
+                                </td>
+                                <td >
+                                    DIREITO ELEITORAL
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0202
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0464
+                                </td>
+                                <td >
+                                    DIREITO DO SERVIDOR PÚBLICO
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0210
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0015
+                                </td>
+                                <td >
+                                    DIREITO BANCÁRIO
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0462
+                                </td>
+                                <td >
+                                    CRIMINOLOGIA
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DFCH0324
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0468
+                                </td>
+                                <td >
+                                    CONDOMÍNIO, INCORPORAÇÕES E LOCAÇÕES
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0489
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0431
+                                </td>
+                                <td >
+                                    ANÁLISE DO DISCURSO
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DFCH0001
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCSA0461
+                                </td>
+                                <td >
+                                    ACIDENTES DE TRABALHO
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DCSA0191
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0961
+                                </td>
+                                <td >
+                                    ESTUDOS PRISIONAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0962
+                                </td>
+                                <td >
+                                    PSICOLOGIA FORENSE E CRIMINAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                            </div>
+        </div>
+    </div>
+        </main>
+        <footer>
+            <div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="assinatura">
+                <img src="http://www2.uesb.br/brasao/uesb_governo_rodape-.png">
+            </div>
+        </div>
+    </div>
+</div>        </footer>
+    </div>
+    <button id="scrollTop" style="display:none;" alt="Subir"></button>
+    <!-- Scripts -->
+    <script src="/js/app.js?id=5c20d3c13fabd1e0eb29"></script>
+        <script>
+        $(document).ready(function (){
+            $(function() {
+                var mainHeader = $("#app");
+                $(window).scroll(function() {    
+                    var scroll = $(window).scrollTop();
+                
+                    if (scroll > 500) {
+                        $("#scrollTop").show();
+                    } else {
+                        $("#scrollTop").hide();
+                    }
+                });
+            });
+            $("#scrollTop").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("head").offset().top
+                }, 1000);
+            });
+        });
+    </script>
+</body>
+</html>

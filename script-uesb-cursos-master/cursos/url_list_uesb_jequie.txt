@@ -1,0 +1,17 @@
+http://catalogo.uesb.br/cursos/enfermagem-bac-jq/20072_diurno_enfermagem
+http://catalogo.uesb.br/cursos/fisioterapia-bac-jq/20012_diurno_fisioterapia
+http://catalogo.uesb.br/cursos/medicina-bac-jq/20110_diurno_medicina
+http://catalogo.uesb.br/cursos/odontologia-bac-jq/20091_diurno_odontologia
+http://catalogo.uesb.br/cursos/quimica-bac-jq/20052_diurno_quimica
+http://catalogo.uesb.br/cursos/sistemas_de_informacao-bac-jq/20112_diurno_sistemas_de_informacao
+http://catalogo.uesb.br/cursos/biologia-lic-jq/20102_diurno_biologia
+http://catalogo.uesb.br/cursos/biologia-lic-jq/20102_not_biologia
+http://catalogo.uesb.br/cursos/danca-lic-jq/20162_diurno_danca
+http://catalogo.uesb.br/cursos/educacao_fisica-lic-jq/20131_diurno_educacao_fisica
+http://catalogo.uesb.br/cursos/letras-lic-jq/20111_mat_letras
+http://catalogo.uesb.br/cursos/letras-lic-jq/20111_not_letras
+http://catalogo.uesb.br/cursos/matematica_informatica-lic-jq/20091_not_matematica_informatica
+http://catalogo.uesb.br/cursos/pedagogia-lic-jq/20132_not_pedagogia
+http://catalogo.uesb.br/cursos/pedagogia-lic-jq/20132_mat_pedagogia
+http://catalogo.uesb.br/cursos/quimica-lic-jq/20141_not_quimica
+http://catalogo.uesb.br/cursos/teatro-lic-jq/20152_diurno_teatro

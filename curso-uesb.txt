@@ -27,7 +27,7 @@
 
     <meta name="csrf-token" content="GwbFDSh1TQ4jXT9xANCithfIYsEKdxuLBVK53i1R">
     
-            <title>Licenciatura Em Matemática - Vespertino - Vitória Da Conquista - Catálogo UESB</title>
+            <title>Licenciatura Em Física - Diúrno - Vitória Da Conquista - Catálogo UESB</title>
      
     
 
@@ -36,7 +36,7 @@
     <meta property='article:published_time' content="" />
 
     <meta property="og:description"content="Catálogo de Cursos UESB" />
-    <meta property="og:title"content="Licenciatura Em Matemática - Vespertino - Vitória Da Conquista - Catálogo de Cursos UESB" />
+    <meta property="og:title"content="Licenciatura Em Física - Diúrno - Vitória Da Conquista - Catálogo de Cursos UESB" />
     <meta property="og:url"content="" />
     <meta property="og:type"content="website" />
     <meta property="og:locale"content="pt-br" />
@@ -89,17 +89,17 @@
                 <div class="container">
         <div class="row">
             <div class="col">
-                <h1 class="mt-4 mb-0">LICENCIATURA EM MATEMÁTICA</h1>
+                <h1 class="mt-4 mb-0">LICENCIATURA EM FÍSICA</h1>
                 <h2 class="mb-4"><small>CAMPUS: VITÓRIA DA CONQUISTA</small></h2>
                 <div class="card-curriculo">
                     <b>INTEGRALIZAÇÃO CURRICULAR</b>
                     <ul class="list-inline integralizacao">
-                        <li class="list-inline-item">Carga Horária: 3480h</li>
-                        <li class="list-inline-item">Créditos: 144</li>
-                        <li class="list-inline-item">Turno: Vespertino</li>
+                        <li class="list-inline-item">Carga Horária: 3755h</li>
+                        <li class="list-inline-item">Créditos: 177</li>
+                        <li class="list-inline-item">Turno: Diúrno</li>
                         <li class="list-inline-item">Currículo: Básico                                   </li>
                                                     <li class="list-inline-item">
-                                <a href="/storage/fluxogramas/20111_vesp_matematica.pdf" target="_blank">
+                                <a href="/storage/fluxogramas/20121_diurno_fisica.pdf" target="_blank">
                                     <img src="http://catalogo.uesb.br/images/pdf_icon.png" alt="PDF" width="30">
                                     Fluxograma
                                 </a> 
@@ -110,8 +110,8 @@
                         <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
                             <tr class="mb-5">
                                 <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 360h  - 
-                                            CRED 18)</small></h3>
+                                    <h3 class="text-left p-0 mb-4">01 SEMESTRE  <small>(C.H. 405h  - 
+                                            CRED 22)</small></h3>
                                 </td>
                             </tr>
                             <tr>
@@ -133,16 +133,16 @@
                             </tr>
                                                         <tr >
                                 <td >
-                                    DFCH0303
+                                    DCET0014
                                 </td>
                                 <td >
-                                    MÉTODOS E TÉCNICAS DE PESQUISA
+                                    LABORATÓRIO DE FÍSICA GERAL I
                                 </td>
                                 <td >
-                                    60h
+                                    30h
                                 </td>
                                 <td >
-                                    (2.1.0)
+                                    (0.1.0)
                                 </td>
                                 <td>
                                     -
@@ -150,16 +150,16 @@
                             </tr>
                                                         <tr >
                                 <td >
-                                    DFCH0100
+                                    DCET0010
                                 </td>
                                 <td >
-                                    PSICOLOGIA DA EDUCAÇÃO I
+                                    FÍSICA GERAL I
                                 </td>
                                 <td >
-                                    60h
+                                    90h
                                 </td>
                                 <td >
-                                    (2.1.0)
+                                    (6.0.0)
                                 </td>
                                 <td>
                                     -
@@ -167,113 +167,16 @@
                             </tr>
                                                         <tr >
                                 <td >
-                                    DCET0088
-                                </td>
-                                <td >
-                                    FUNDAMENTOS DE MATEMÁTICA ELEMENTAR I
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0089
-                                </td>
-                                <td >
-                                    FUNDAMENTOS DE MATEMÁTICA ELEMENTAR II
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0090
-                                </td>
-                                <td >
-                                    FUNDAMENTOS DE MATEMÁTICA ELEMENTAR III
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0093
-                                </td>
-                                <td >
-                                    INTRODUÇÃO AO ALGORITMO ESTRUTURADO
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 375h  - 
-                                            CRED 19)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0078
+                                    DCET0111
                                 </td>
                                 <td >
                                     CÁLCULO I
                                 </td>
                                 <td >
-                                    90h
+                                    75h
                                 </td>
                                 <td >
-                                    (4.1.0)
+                                    (3.1.0)
                                 </td>
                                 <td>
                                     -
@@ -281,33 +184,16 @@
                             </tr>
                                                         <tr >
                                 <td >
-                                    DCET0087
-                                </td>
-                                <td >
-                                    ESTATÍSTICA E PROBABILIDADE
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (4.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0091
+                                    DCET0302
                                 </td>
                                 <td >
                                     GEOMETRIA ANALÍTICA E CÁLCULO VETORIAL
                                 </td>
                                 <td >
-                                    60h
+                                    75h
                                 </td>
                                 <td >
-                                    (2.1.0)
+                                    (3.1.0)
                                 </td>
                                 <td>
                                     -
@@ -315,1154 +201,16 @@
                             </tr>
                                                         <tr >
                                 <td >
-                                    DCET0131
+                                    DELL0001
                                 </td>
                                 <td >
-                                    TEORIA DOS NÚMEROS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DELL0924
-                                </td>
-                                <td >
-                                    PORTUGUÊS INSTRUMENTAL (3)
+                                    PORTUGUÊS INSTRUMENTAL
                                 </td>
                                 <td >
                                     75h
                                 </td>
                                 <td >
                                     (1.2.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 390h  - 
-                                            CRED 19)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0121
-                                </td>
-                                <td >
-                                    GEOMETRIA EUCLIDIANA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0079
-                                </td>
-                                <td >
-                                    CÁLCULO II
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (4.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0096
-                                </td>
-                                <td >
-                                    PRÁTICA COMO COMPONENTE CURRICULAR I
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (0.3.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0094
-                                </td>
-                                <td >
-                                    TEORIAS E TENDÊNCIAS DO ENSINO/APRENDIZAGEM DA MATEMÁTICA
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (4.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0076
-                                </td>
-                                <td >
-                                    ÁLGEBRA LINEAR I (2)
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 375h  - 
-                                            CRED 17)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0097
-                                </td>
-                                <td >
-                                    PRÁTICA COMO COMPONENTE CURRICULAR II
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (0.3.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0092
-                                </td>
-                                <td >
-                                    INFORMÁTICA NA EDUCAÇÃO MATEMÁTICA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (0.2.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0080
-                                </td>
-                                <td >
-                                    CÁLCULO III
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (4.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0074
-                                </td>
-                                <td >
-                                    ÁLGEBRA I
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0004
-                                </td>
-                                <td >
-                                    ESTRUTURA E FUNCIONAMENTO DA EDUCACAO BASICA (2)
-                                </td>
-                                <td >
-                                    75h
-                                </td>
-                                <td >
-                                    (3.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 465h  - 
-                                            CRED 18)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0098
-                                </td>
-                                <td >
-                                    PRATICA COMO COMPONENTE CURRICULAR III
-                                </td>
-                                <td >
-                                    120h
-                                </td>
-                                <td >
-                                    (0.4.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0083
-                                </td>
-                                <td >
-                                    ESTÁGIO SUPERVISIONADO I
-                                </td>
-                                <td >
-                                    135h
-                                </td>
-                                <td >
-                                    (0.0.3)
-                                </td>
-                                <td>
-                                    DCET0096
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0081
-                                </td>
-                                <td >
-                                    CÁLCULO IV
-                                </td>
-                                <td >
-                                    75h
-                                </td>
-                                <td >
-                                    (3.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0075
-                                </td>
-                                <td >
-                                    ÁLGEBRA II
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0202
-                                </td>
-                                <td >
-                                    FÍSICA I
-                                </td>
-                                <td >
-                                    75h
-                                </td>
-                                <td >
-                                    (3.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 495h  - 
-                                            CRED 20)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0099
-                                </td>
-                                <td >
-                                    PRÁTICA COMO COMPONENTE CURRICULAR IV
-                                </td>
-                                <td >
-                                    120h
-                                </td>
-                                <td >
-                                    (0.4.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0084
-                                </td>
-                                <td >
-                                    ESTÁGIO SUPERVISIONADO II
-                                </td>
-                                <td >
-                                    135h
-                                </td>
-                                <td >
-                                    (0.0.3)
-                                </td>
-                                <td>
-                                    DCET0097, DCET0098
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0077
-                                </td>
-                                <td >
-                                    ANÁLISE NA RETA I (2)
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (4.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0262
-                                </td>
-                                <td >
-                                    SEMINÁRIO DE PESQUISA I
-                                </td>
-                                <td >
-                                    15h
-                                </td>
-                                <td >
-                                    (1.0.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0203
-                                </td>
-                                <td >
-                                    FÍSICA II
-                                </td>
-                                <td >
-                                    75h
-                                </td>
-                                <td >
-                                    (3.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0145
-                                </td>
-                                <td >
-                                    DESENHO GEOMÉTRICO
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 375h  - 
-                                            CRED 14)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0095
-                                </td>
-                                <td >
-                                    MATEMÁTICA FINANCEIRA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0085
-                                </td>
-                                <td >
-                                    ESTÁGIO SUPERVISIONADO III
-                                </td>
-                                <td >
-                                    180h
-                                </td>
-                                <td >
-                                    (0.0.4)
-                                </td>
-                                <td>
-                                    DCET0099
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0263
-                                </td>
-                                <td >
-                                    SEMINÁRIO DE PESQUISA II
-                                </td>
-                                <td >
-                                    15h
-                                </td>
-                                <td >
-                                    (1.0.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0008
-                                </td>
-                                <td >
-                                    INTRODUÇÃO À FILOSOFIA (2)
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0116
-                                </td>
-                                <td >
-                                    EQUAÇÕES DIFERENCIAIS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 225h  - 
-                                            CRED 10)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0311
-                                </td>
-                                <td >
-                                    INTRODUÇÃO ÀS VARIÁVEIS COMPLEXAS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DELL0600
-                                </td>
-                                <td >
-                                    LIBRAS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0082
-                                </td>
-                                <td >
-                                    CÁLCULO NUMÉRICO
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0086
-                                </td>
-                                <td >
-                                    ESTÁGIO SUPERVISIONADO IV
-                                </td>
-                                <td >
-                                    45h
-                                </td>
-                                <td >
-                                    (0.0.1)
-                                </td>
-                                <td>
-                                    DCET0099
-                                </td>
-                            </tr>
-                                                    </table>
-                    </div>
-                    
-                    
-                                    <div class="card-curriculo">
-                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
-                            <tr class="mb-5">
-                                <td colspan="5">
-                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 1845h  - 
-                                            CRED 99)</small></h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td >
-                                    <b>CÓDIGO </b>
-                                </td>
-                                <td style="width:50%;">
-                                    <b>DISCIPLINA </b>
-                                </td>
-                                <td >
-                                    <b>C.H. </b>
-                                </td>
-                                <td >
-                                    <b>CRÉDITO </b>
-                                </td>
-                                <td >
-                                    <b>PRÉ-REQUISITO </b>
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0434
-                                </td>
-                                <td >
-                                    GEOMETRIA DIFERENCIAL
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0310
-                                </td>
-                                <td >
-                                    HISTÓRIA DA MATEMÁTICA I
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0267
-                                </td>
-                                <td >
-                                    INTRODUÇÃO À TOPOLOGIA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0445
-                                </td>
-                                <td >
-                                    RACIOCÍNIO LÓGICO ATRAVÉS DO XADREZ
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0132
-                                </td>
-                                <td >
-                                    ÁLGEBRA III
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0133
-                                </td>
-                                <td >
-                                    ÁLGEBRA LINEAR II (2)
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0134
-                                </td>
-                                <td >
-                                    ANÁLISE COMPLEXA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0135
-                                </td>
-                                <td >
-                                    ANÁLISE NA RETA II
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0136
-                                </td>
-                                <td >
-                                    EQUAÇÕES DIFERENCIAIS PARCIAIS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0137
-                                </td>
-                                <td >
-                                    GEOMETRIA NÃO EUCLIDIANA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0138
-                                </td>
-                                <td >
-                                    INFORMÁTICA NA EDUCAÇÃO MATEMÁTICA II
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0139
-                                </td>
-                                <td >
-                                    PROGRAMAÇÃO LINEAR
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0140
-                                </td>
-                                <td >
-                                    TEORIA DOS GRAFOS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0141
-                                </td>
-                                <td >
-                                    TÓPICOS ESPECIAIS DE EDUCAÇÃO MATEMÁTICA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0142
-                                </td>
-                                <td >
-                                    TÓPICOS ESPECIAIS DE MATEMÁTICA APLICADA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0143
-                                </td>
-                                <td >
-                                    TÓPICOS ESPECIAIS DE MATEMÁTICA PURA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0315
-                                </td>
-                                <td >
-                                    EDUCACAO DE JOVENS E ADULTOS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DELL0211
-                                </td>
-                                <td >
-                                    LÍNGUA ESTRANGEIRA INSTRUMENTAL I
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0130
-                                </td>
-                                <td >
-                                    TÓPICOS ESPECIAIS
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0956
-                                </td>
-                                <td >
-                                    EDUCAÇÃO INCLUSIVA (2)
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0320
-                                </td>
-                                <td >
-                                    METODOLOGIA DA PESQUISA CIENTÍFICA (3)
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0024
-                                </td>
-                                <td >
-                                    PSICOLOGIA DA APRENDIZAGEM
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (4.0.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0805
-                                </td>
-                                <td >
-                                    POLÍTICA EDUCACIONAL I
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH0302
-                                </td>
-                                <td >
-                                    METODOLOGIA DA PESQUISA CIENTÍFICA
-                                </td>
-                                <td >
-                                    60h
-                                </td>
-                                <td >
-                                    (2.1.0)
                                 </td>
                                 <td>
                                     -
@@ -1485,18 +233,47 @@
                                     -
                                 </td>
                             </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">02 SEMESTRE  <small>(C.H. 390h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
                                                         <tr >
                                 <td >
-                                    DCET0819
+                                    DFCH0100
                                 </td>
                                 <td >
-                                    MATEMÁTICA I (2)
+                                    PSICOLOGIA DA EDUCAÇÃO I
                                 </td>
                                 <td >
-                                    90h
+                                    60h
                                 </td>
                                 <td >
-                                    (6.0.0)
+                                    (2.1.0)
                                 </td>
                                 <td>
                                     -
@@ -1504,50 +281,1647 @@
                             </tr>
                                                         <tr >
                                 <td >
-                                    DCET0821
+                                    DCET0112
                                 </td>
                                 <td >
-                                    MATEMÁTICA III (2)
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (6.0.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DCET0820
-                                </td>
-                                <td >
-                                    MATEMÁTICA II (2)
-                                </td>
-                                <td >
-                                    90h
-                                </td>
-                                <td >
-                                    (6.0.0)
-                                </td>
-                                <td>
-                                    -
-                                </td>
-                            </tr>
-                                                        <tr >
-                                <td >
-                                    DFCH1016
-                                </td>
-                                <td >
-                                    PSICOLOGIA DA EDUCAÇÃO II (2)
+                                    CÁLCULO II
                                 </td>
                                 <td >
                                     75h
                                 </td>
                                 <td >
                                     (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0111
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0119
+                                </td>
+                                <td >
+                                    ÁLGEBRA LINEAR I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0302
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0011
+                                </td>
+                                <td >
+                                    FÍSICA GERAL II
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (6.0.0)
+                                </td>
+                                <td>
+                                    DCET0010
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0015
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE FÍSICA GERAL II
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCET0014
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0126
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">03 SEMESTRE  <small>(C.H. 450h  - 
+                                            CRED 23)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0016
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE FÍSICA GERAL III
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCET0015
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0012
+                                </td>
+                                <td >
+                                    FÍSICA GERAL III
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (6.0.0)
+                                </td>
+                                <td>
+                                    DCET0011
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0113
+                                </td>
+                                <td >
+                                    CÁLCULO III
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0112
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0116
+                                </td>
+                                <td >
+                                    EQUAÇÕES DIFERENCIAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0112
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0109
+                                </td>
+                                <td >
+                                    QUÍMICA GERAL
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0702
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO DE FÍSICA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DCET0011
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0711
+                                </td>
+                                <td >
+                                    LIBRAS I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">04 SEMESTRE  <small>(C.H. 405h  - 
+                                            CRED 21)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0110
+                                </td>
+                                <td >
+                                    QUÍMICA INORGÂNICA I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCN0109
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0101
+                                </td>
+                                <td >
+                                    PSICOLOGIA DA EDUCAÇÃO II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0013
+                                </td>
+                                <td >
+                                    FÍSICA GERAL IV
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (6.0.0)
+                                </td>
+                                <td>
+                                    DCET0012
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0017
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE FÍSICA GERAL IV
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCET0016
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0301
+                                </td>
+                                <td >
+                                    CÁLCULO IV
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0302, DCET0113
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0704
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO DE FÍSICA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DCET0012, DCET0702
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">05 SEMESTRE  <small>(C.H. 465h  - 
+                                            CRED 24)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0018
+                                </td>
+                                <td >
+                                    MECÂNICA CLÁSSICA I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0010, DCET0302, DCET0116
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0103
+                                </td>
+                                <td >
+                                    DIDÁTICA (4)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DFCH0101
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0004
+                                </td>
+                                <td >
+                                    ESTRUTURA E FUNCIONAMENTO DA EDUCACAO BASICA (2)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0305
+                                </td>
+                                <td >
+                                    CÁLCULO NUMÉRICO
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0112
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0705
+                                </td>
+                                <td >
+                                    RECURSOS ENERGÉTICOS E MEIO AMBIENTE
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCET0012
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0706
+                                </td>
+                                <td >
+                                    PRÁTICAS DE ENSINO DE FÍSICA III
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (0.2.0)
+                                </td>
+                                <td>
+                                    DCET0013, DCET0704
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0710
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FILOSOFIA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">06 SEMESTRE  <small>(C.H. 465h  - 
+                                            CRED 20)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0308
+                                </td>
+                                <td >
+                                    TEORIA ELETROMAGNÉTICA I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0012, DCET0113
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0206
+                                </td>
+                                <td >
+                                    TERMODINÂMICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0011, DCET0116
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0302
+                                </td>
+                                <td >
+                                    METODOLOGIA DA PESQUISA CIENTÍFICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0041
+                                </td>
+                                <td >
+                                    ESTRUTURA DA MATÉRIA (2)
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (6.0.0)
+                                </td>
+                                <td>
+                                    DCN0109, DCET0013
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0707
+                                </td>
+                                <td >
+                                    ESTÁGIO SUPERVISIONADO EM FÍSICA I
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (0.0.4)
+                                </td>
+                                <td>
+                                    DFCH0103, DFCH0004
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">07 SEMESTRE  <small>(C.H. 330h  - 
+                                            CRED 14)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0502
+                                </td>
+                                <td >
+                                    REALIDADE BRASILEIRA CONTEMPORÂNEA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0710
+                                </td>
+                                <td >
+                                    TRABALHO MONOGRÁFICO ORIENTADO I
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (2.0.0)
+                                </td>
+                                <td>
+                                    DFCH0302
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0709
+                                </td>
+                                <td >
+                                    ESTÁGIO SUPERVISIONADO EM FÍSICA II
+                                </td>
+                                <td >
+                                    180h
+                                </td>
+                                <td >
+                                    (0.0.4)
+                                </td>
+                                <td>
+                                    DCET0707
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0708
+                                </td>
+                                <td >
+                                    EVOLUÇÃO DA FÍSICA I (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0013
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">08 SEMESTRE  <small>(C.H. 375h  - 
+                                            CRED 14)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0714
+                                </td>
+                                <td >
+                                    TRABALHO MONOGRÁFICO ORIENTADO II
+                                </td>
+                                <td >
+                                    120h
+                                </td>
+                                <td >
+                                    (0.4.0)
+                                </td>
+                                <td>
+                                    DCET0710
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0713
+                                </td>
+                                <td >
+                                    ESTÁGIO SUPERVISIONADO EM FÍSICA III
+                                </td>
+                                <td >
+                                    135h
+                                </td>
+                                <td >
+                                    (0.0.3)
+                                </td>
+                                <td>
+                                    DCET0709
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0712
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ASTRONOMIA E À  ASTROFÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0013
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0711
+                                </td>
+                                <td >
+                                    EVOLUÇÃO DA FÍSICA II (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0708
+                                </td>
+                            </tr>
+                                                    </table>
+                    </div>
+                    
+                    
+                                    <div class="card-curriculo">
+                        <table class="table table-sm table-responsive-sm table-borderless table-hover m-0" cellspacing="0" cellpadding="0">
+                            <tr class="mb-5">
+                                <td colspan="5">
+                                    <h3 class="text-left p-0 mb-4">OPTATIVAS  <small>(C.H. 2970h  - 
+                                            CRED 152)</small></h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <b>CÓDIGO </b>
+                                </td>
+                                <td style="width:50%;">
+                                    <b>DISCIPLINA </b>
+                                </td>
+                                <td >
+                                    <b>C.H. </b>
+                                </td>
+                                <td >
+                                    <b>CRÉDITO </b>
+                                </td>
+                                <td >
+                                    <b>PRÉ-REQUISITO </b>
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0023
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FÍSICA NO ESTADO SÓLIDO
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0041
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0082
+                                </td>
+                                <td >
+                                    BIOFÍSICA (3)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0010
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0039
+                                </td>
+                                <td >
+                                    MECÂNICA QUÂNTICA II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    DCET0065
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0120
+                                </td>
+                                <td >
+                                    ANÁLISE REAL I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0112
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0208
+                                </td>
+                                <td >
+                                    FÍSICA APLICADA I
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCET0012
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0065
+                                </td>
+                                <td >
+                                    MECÂNICA QUÂNTICA I (2)
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (4.1.0)
+                                </td>
+                                <td>
+                                    DCET0041
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0106
+                                </td>
+                                <td >
+                                    ESTATÍSTICA GERAL
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0309
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À ASTRONOMIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0013
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0402
+                                </td>
+                                <td >
+                                    ÓPTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0013
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0403
+                                </td>
+                                <td >
+                                    ÁLGEBRA LINEAR II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0119
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0411
+                                </td>
+                                <td >
+                                    FÍSICA APLICADA II
+                                </td>
+                                <td >
+                                    45h
+                                </td>
+                                <td >
+                                    (1.1.0)
+                                </td>
+                                <td>
+                                    DCET0013
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0412
+                                </td>
+                                <td >
+                                    TEORIA ELETROMAGNÉTICA II
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0308
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0413
+                                </td>
+                                <td >
+                                    RELATIVIDADE RESTRITA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0013, DCET0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0415
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À FÍSICA NUCLEAR
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0041
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0417
+                                </td>
+                                <td >
+                                    ANÁLISE REAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0111
+                                </td>
+                                <td >
+                                    QUÍMICA ORGÂNICA I
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCN0109
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0500
+                                </td>
+                                <td >
+                                    EDUCAÇÃO FÍSICA I
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0501
+                                </td>
+                                <td >
+                                    EDUCAÇÃO FÍSICA II
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0502
+                                </td>
+                                <td >
+                                    EDUCAÇÃO FÍSICA III
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DEAS0112
+                                </td>
+                                <td >
+                                    MECÂNICA E MOTORES
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0010, DCET0112
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0303
+                                </td>
+                                <td >
+                                    MÉTODOS E TÉCNICAS DE PESQUISA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DFCH0302
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0127
+                                </td>
+                                <td >
+                                    MATEMÁTICA APLICADA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0116
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0304
+                                </td>
+                                <td >
+                                    INGLÊS INSTRUMENTAL I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DELL0305
+                                </td>
+                                <td >
+                                    INGLÊS INSTRUMENTAL II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DELL0304
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DFCH0002
+                                </td>
+                                <td >
+                                    INTRODUÇÃO À SOCIOLOGIA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0715
+                                </td>
+                                <td >
+                                    ANÁLISE REAL I (2)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0112
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0718
+                                </td>
+                                <td >
+                                    INSTRUMENTAÇÃO EM ELETRÔNICA
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (2.2.0)
+                                </td>
+                                <td>
+                                    DCET0308, DCET0717
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0717
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE ELETRÔNICA I
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (2.2.0)
+                                </td>
+                                <td>
+                                    DCET0016, DCET0308
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0716
+                                </td>
+                                <td >
+                                    ANÁLISE REAL II (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0715
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0719
+                                </td>
+                                <td >
+                                    LABORATÓRIO DE FÍSICA ATÔMICA E NUCLEAR
+                                </td>
+                                <td >
+                                    30h
+                                </td>
+                                <td >
+                                    (0.1.0)
+                                </td>
+                                <td>
+                                    DCET0013, DCET0017
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0722
+                                </td>
+                                <td >
+                                    MÉTODOS MATEMÁTICOS DA FÍSICA II
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (6.0.0)
+                                </td>
+                                <td>
+                                    DCET0721
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0721
+                                </td>
+                                <td >
+                                    MÉTODOS MATEMÁTICOS DA FÍSICA I
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (6.0.0)
+                                </td>
+                                <td>
+                                    DCET0113, DCET0116
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DG0200
+                                </td>
+                                <td >
+                                    GEOGRAFIA FÍSICA I
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0233
+                                </td>
+                                <td >
+                                    LINGUAGEM DE PROGRAMAÇÃO I (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0040
+                                </td>
+                                <td >
+                                    ALGORITMO E ESTRUTURA DE DADOS (2)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0224
+                                </td>
+                                <td >
+                                    CIRCUITOS DIGITAIS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0012
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DEAS0710
+                                </td>
+                                <td >
+                                    MÁQUINAS E MOTORES AGRÍCOLAS
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0010
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0806
+                                </td>
+                                <td >
+                                    FÍSICO-QUÍMICA II
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (2.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0805
+                                </td>
+                                <td >
+                                    FÍSICO-QUÍMICA I
+                                </td>
+                                <td >
+                                    90h
+                                </td>
+                                <td >
+                                    (2.2.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0025
+                                </td>
+                                <td >
+                                    BANCO DE DADOS
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0814
+                                </td>
+                                <td >
+                                    ALGORITMOS E ESTRUTURA DE DADOS (4)
+                                </td>
+                                <td >
+                                    75h
+                                </td>
+                                <td >
+                                    (3.1.0)
+                                </td>
+                                <td>
+                                    DCET0233
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCN0811
+                                </td>
+                                <td >
+                                    BIOFÍSICA (4)
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0022
+                                </td>
+                                <td >
+                                    MECÂNICA CLÁSSICA II
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0018
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0410
+                                </td>
+                                <td >
+                                    MECÂNICA ESTATÍSTICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (2.1.0)
+                                </td>
+                                <td>
+                                    DCET0206
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0824
+                                </td>
+                                <td >
+                                    TECNOLOGIAS DIGITAIS NO ENSINO DE FÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0825
+                                </td>
+                                <td >
+                                    PESQUISAS E PRÁTICAS PEDAGÓGICAS NO ENSINO DE FÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
+                                </td>
+                                <td>
+                                    -
+                                </td>
+                            </tr>
+                                                        <tr >
+                                <td >
+                                    DCET0826
+                                </td>
+                                <td >
+                                    EDUCAÇÃO DIALÓGICO-PROBLEMATIZADORA NO ENSINO DE FÍSICA
+                                </td>
+                                <td >
+                                    60h
+                                </td>
+                                <td >
+                                    (4.0.0)
                                 </td>
                                 <td>
                                     -
